@@ -11,9 +11,12 @@ $secondary: #00643b; // "Forest green"
 //
 $offcanvas-horizontal-width: 90vw;
 
-//Bootstrap
+// Bootstrap
 @import "node_modules/bootstrap/scss/bootstrap.scss";
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
 
 // Desired text colours for custom styles.
 .bg {
@@ -40,13 +43,13 @@ $offcanvas-horizontal-width: 90vw;
   }
 }
 
-h1, .navbar-brand {
-  font-family: 'Bebas Neue', sans-serif
+body {
+  font-family:'Manrope', 'sans-serif';
+  font-weight:400;
 }
 
-.navbar-brand {
-  font-size:1.5em;
-  margin-right:0;
+.navbar-brand img {
+  height:75px;
 }
 
 .content del {
@@ -212,6 +215,12 @@ dark-mode-toggle {
   padding:10px;
   p {
     margin-bottom:0;
+  }
+}
+
+.archive-details {
+  h2 a {
+    text-decoration:none;
   }
 }
 

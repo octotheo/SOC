@@ -1,9 +1,11 @@
-<div class="row">
+<div class="archive-details row">
     <div class="col-md">
-      <p>This is the SOC website for compiling and displaying motions for Green Party conference. You can view past conferences by clicking on the buttons below.</p>
+      <h1>Welcome to Green Coordinate</h1>
+      <p>This website, brought to you by the Standing Orders Committee, compiles and displays motions for Green Party conference.</p>
+      <p>You can view past conferences by clicking on the buttons below.</p>
       {% assign conferences = site.data.archive | reverse %}
       {% for conference in conferences %}
-        <a class="my-2 mx-2" href="archive/{{ conference.season | slugify }}{{ conference.year }}/"><button class="btn btn-outline-primary">{{ conference.season }} {{conference.year }}</button></a>
+        <h2><a href="archive/{{ conference.season | slugify }}{{ conference.year }}/">{{ conference.season }} {{conference.year }}</a></h2>
       {% endfor %}
     </div>
   </div>

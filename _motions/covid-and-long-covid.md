@@ -7,7 +7,6 @@ motion_code:
 status: final
 spaces: https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/post/post/view?id=13126
 ---
-## \
 **S﻿ynopsis**
 
 Since the start of the pandemic, there have been more than 770 million reported cases of SARS-CoV-2 infection globally. The true number is likely considerably higher. The pandemic has disproportionately impacted, and continues to put at risk, people of colour, people living in poverty, those in insecure employment, clinically vulnerable 
@@ -42,9 +41,7 @@ We believe that clean air is a human right that should be enshrined in law, and 
 
 “The Green Party demands an inclusive society. This does not mean integrating disabled people into a not yet-disabled world but means redefining society according to the perspectives of all people, not just the not yet-disabled.” \[DY 300]
 
-
-
-## **M﻿otion** 
+## **M﻿otion**
 
 #### **Clean Indoor Air**
 

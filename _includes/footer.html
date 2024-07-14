@@ -1,5 +1,5 @@
 <footer class="footer mt-auto py-3 bg-secondary text-light">
-  <div class="container d-flex flex-row justify-content-between">
+  <div class="container flex-row justify-content-between">
     <div class="icons d-flex align-items-center">
       <a class="link-light" href="https://www.github.com/AshRouth/SOC">
         <i class="bi bi-github"></i>
@@ -9,7 +9,7 @@
       </a>
     </div>
     <div class="d-flex align-items-center">
-    {% if page.layout == "home" %}<p class="text-light m-0 me-3">Website last updated {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>{% endif %}
-  </div>
+      {% if page.layout == "home" %}<p class="text-light m-0 me-3">Website last updated {{ site.time | date: "%Y-%m-%d at %H:%M" }}</p>{% endif %}
+    </div>
   </div>
 </footer>

@@ -4,7 +4,7 @@ toc: "true"
 title: "Voting Paper: Europe"
 motion_code:
   section: B
-  number: 1
+  number: 2
 status: draft
 coproposers: 7
 affiliated: true

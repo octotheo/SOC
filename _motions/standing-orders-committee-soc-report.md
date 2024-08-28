@@ -19,7 +19,7 @@ Some of these have since been moved to the SOC report required by the Annual Gen
 
 ## **The Final Agenda and Ordering of Motions for Conference**
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> That this places the AGM beyond the completion date of this Conference and makes a strong recommendation to all members to make every effort to attend the AGM so that quoracy can be achieved and the relevant reports voted on.</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This places the AGM beyond the completion date of this Conference and makes a strong recommendation to all members to make every effort to attend the AGM so that quoracy can be achieved and the relevant reports voted on.</p>
 
 #### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Amendments to section A: 
 

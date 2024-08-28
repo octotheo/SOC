@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Conflict of Interests – Joint Membership of SOC and GPRC
 motion_code:
-  section: E
+  section: D
   number: 14
 status: draft
 coproposers: 13

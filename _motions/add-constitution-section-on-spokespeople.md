@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Add Constitution Section on Spokespeople
 motion_code:
-  section: E
+  section: D
   number: 11
 status: draft
 coproposers: 24

@@ -5,7 +5,7 @@ title: Addressing the Dire Need for AI Regulation
 motion_code:
   section: E
   number: 3
-status: draft
+status: tbd
 coproposers: 21
 ---
 ## Synopsis

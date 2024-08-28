@@ -19,21 +19,7 @@ Some of these have since been moved to the SOC report required by the Annual Gen
 
 ## **The Final Agenda and Ordering of Motions for Conference**
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Please report any errors found in the Final Agenda to soc@greenparty.org.uk.</p>
-
-The Green Party develop the vast majority of our policy by way of Voting Papers for chapters of policy in Policies for a Sustainable Society, as prepared by a Working Group following an Enabling Motion. These come to Conference either as B motions (for voting) or F motions (for discussion) for part or whole chapters of policies containing many detailed policies. Small changes to chapters can be made by C motions, which are accredited by Policy Development Committee (PDC) as having met the basic Standing Orders requirements for consultation.  E motions are unaccredited motions which have usually not met the Standing Order requirements for consultation or for gaining consensus within the Party, but Section E also includes Enabling Motions.
-
-SOC held our First Agenda meeting on Zoom on 24th July 2024. The order of policy motions in section F was determined by their alphabetical order, and between the First and Final Agenda meeting Policy Development Committee (PDC) made SOC aware that they now considered the old motions F01 and F03 could be put to Conference as full voting papers. These accordingly became motions B01 and B02, while the draft voting papers in section F were re-numbered.
-
-SOC held our Final Agenda meetings on Zoom on 10th and 17th August 2024. The motions proposed in the Final Agenda for this Conference are:
-
-### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Section A Reports.
-
-SOC offers its report on the ordering of the Agenda, as well as a brief PDC Report and ADRC report required by Conference in order for that body to amend its Standing Orders. These form the 3 reports to be voted on in section A.
-
-Under section 11(iv) of the Constitution, reports from the leadership team, all elected committees within the party and all recognised internal groups are now received as part of the Annual General Meeting, which is due to be held online on 9th November 2024.
-
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This places the AGM beyond the completion date of this Conference and makes a strong recommendation to all members to make every effort to attend the AGM so that quoracy can be achieved and the relevant reports voted on.**</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> That this places the AGM beyond the completion date of this Conference and makes a strong recommendation to all members to make every effort to attend the AGM so that quoracy can be achieved and the relevant reports voted on.</p>
 
 #### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Amendments to section A: 
 
@@ -77,7 +63,7 @@ E25 -------------- C07
 
 E20 -------------- C08
 
-### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Section D: Organisational Motions 
+### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Section D: Organisational Motions
 
 The ranking of these motions is as in the Prioritisation Ballot. SOC has discretion under SOCC F2.6(c) to give special priority to any motion in section D which it considers to be urgent for the functioning of the party or any part of it. For these purposes SOC elected to give priority to First Agenda motions D15 and D19, concerning Extraordinary Conferences for outstanding business and the restoration of Spring Conference respectively.
 
@@ -219,7 +205,7 @@ Amendments found to be Out of Order are listed in Appendix 8 with reasons given.
 
 ### **A report on SOC’s participation in the Agenda process including any motions or amendments that SOC is submitting to conference**
 
-SOC and staff opened the Agenda Forum following the end of Autumn Conference 2023 in Greenspaces at [<https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/?contentId=178000&commentId=34998>] and a calendar of deadlines was posted there.
+SOC and staff opened the Agenda Forum following the end of Autumn Conference 2023 in Greenspaces at \[<https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/?contentId=178000&commentId=34998>] and a calendar of deadlines was posted there.
 
 Attempting to build on the lessons learned from Conferences in 2022 and 2023 and continue what committee members regarded as good practice, SOC continued to try and hold meetings every two weeks wherever possible to manage the throughflow of work, and have continued to take advantage of the ‘Trello’ platform to make deliberating and voting on rulings and advice easier.
 
@@ -233,7 +219,7 @@ The First Agenda meeting of SOC was held on 24th July 2023. Since the truncated 
 
 SOC has previously noted that the sheer quantity of motions proposed by members to Conference, while encouraging from a democratic standpoint, does create a sizeable amount of work for volunteers. That trend appears to have continued in preparation for this Conference, as evidenced by the 105 motions which were originally noted on the Forum and subsequently whittled down. SOC notes again a need to consider how better to manage such a through-flow of motions going forward.
 
-Owing to technical difficulties presented by the opening of a separate Forum for Amendments and Late Motions, SOC asked that members place these items on the same Agenda Forum used for all other Conference business in the time before these forums were eventually opened on 26th July 2024 at [<https://spaces.greenparty.org.uk/s/autumn-conference-2024-amendment-forum/?contentId=251152&commentId=38358>] and [<https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home>].
+Owing to technical difficulties presented by the opening of a separate Forum for Amendments and Late Motions, SOC asked that members place these items on the same Agenda Forum used for all other Conference business in the time before these forums were eventually opened on 26th July 2024 at \[<https://spaces.greenparty.org.uk/s/autumn-conference-2024-amendment-forum/?contentId=251152&commentId=38358>] and \[<https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home>].
 
 ### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)The Prioritisation Ballot
 
@@ -250,6 +236,7 @@ Having deliberated, SOC reaffirmed at its Final Agenda Meetings of 10th and 17th
 As of 2023, SOC has also decided that this process does *not* apply to Late or Emergency Motions, since time constraints are not the primary limiting factor in whether or not these motions reach the floor of Conference – ultimately, whether they are debated at all is a matter for the Chair.
 
 Accordingly, SOC decided to apply the modifiers as follows:\
+
 1. Allowing All Special Interest Groups to Propose Manifestoes (1.5x modifier)\
 2. Allow two women to be co-leaders or deputy leaders (2x modifier)\
 3. Amend Standing Orders for Party Discipline (2x modifier)\

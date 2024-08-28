@@ -5,7 +5,7 @@ title: Amend Animal Racing Policy
 motion_code:
   section: C
   number: 8
-status: draft
+status: tbd
 coproposers: 39
 affiliated: true
 ---

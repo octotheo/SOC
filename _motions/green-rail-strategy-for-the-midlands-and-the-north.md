@@ -148,7 +148,7 @@ and replace with—\
 \
 so that it reads as follows:\
 \
-“The Green Party calls for the impact of HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Leeds with through stations in Manchester and Bradford. This will use HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool.”
+“The Green Party calls for the impact of HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Leeds with through stations in Manchester and Bradford. This will use HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool. ”
   
 </div>          
             

@@ -5,7 +5,7 @@ title: Enabling Motion for Industry and Jobs Policies
 motion_code:
   section: E
   number: 9
-status: draft
+status: tbd
 coproposers: 5
 affiliated: true
 ---

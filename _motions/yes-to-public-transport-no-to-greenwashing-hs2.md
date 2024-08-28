@@ -5,7 +5,7 @@ title: Yes to Public Transport, No to Greenwashing HS2
 motion_code:
   section: E
   number: 17
-status: draft
+status: tbd
 coproposers: 56
 ---
 ## Synopsis

@@ -4,7 +4,7 @@ toc: "true"
 title: Response to the Call for Evidence on Net Zero Governance
 motion_code:
   section: E
-  number: 19
+  number: 22
 status: draft
 coproposers: 4
 affiliated: true

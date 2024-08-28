@@ -5,7 +5,7 @@ title: Add Constitution Section on Spokespeople
 motion_code:
   section: D
   number: 11
-status: draft
+status: tbd
 coproposers: 24
 ---
 ## Synopsis

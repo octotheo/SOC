@@ -26,6 +26,11 @@ Change “We” to “Members” or “Members/volunteers” throughout (with on
 </div>          
             
 
+```
+      
+        
+```
+
 Replace the Code of Conduct with the following:
 
 **Contents**
@@ -66,6 +71,11 @@ Replace “this document” with “this Members’ Code of Conduct (MCC)” so 
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
@@ -78,6 +88,11 @@ Replace with “Members and volunteers for the Green Party agree to meet these e
   
 </div>          
             
+
+```
+      
+        
+```
 
 1.2 Breaches of Section 3 (Expectations) of this Members’ Code of Conduct (MCC) may be considered grounds for disciplinary action following a complaint which will be handled using the Party’s agreed disputes and complaints process (see Section 5) or may be grounds to make use of one of the other suitable party procedures which do not require a formal disciplinary complaint to be registered.
 
@@ -95,6 +110,11 @@ Remove “Members’ Code of Conduct (MCC)” and replace with “document” so
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
@@ -106,13 +126,21 @@ Delete “disputes and” as disputes are not considered grounds for disciplinar
 </div>          
             
 
-Amendment 6
+```
+      
+        
+```
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
 
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-6">Amendment #6</h3>
+</div>
+    
 Delete the words ‘disputes and’ from the paragraph above.
-
-\*
+  
+</div>          
+            
 
 1.3 This Members’ Code of Conduct is effective from the moment of its adoption. Any breaches of the Members’ Code of Conduct shall be assessed against the version of the Code of Conduct effective at the time of conduct in question, except where a pattern of behaviour takes place over a period of time in which multiple versions of the Code were in effect – in which case the latest version at the time of the submission of the complaint will normally be considered.
 
@@ -129,6 +157,11 @@ Remove text “except where a pattern of behaviour takes place over a period of 
 </div>          
             
 
+```
+      
+        
+```
+
 1.3 This Members’ Code of Conduct is effective from the moment of its adoption.\
 Any breaches of the Members’ Code of Conduct shall be assessed against the version of the Code of Conduct effective at the time of conduct in question, except where a pattern of behaviour takes place over a period of time in which multiple versions of the Code were in effect – in which case the latest version at the time of the submission of the complaint will normally be considered.
 
@@ -140,23 +173,29 @@ These principles are drawn from the Party's Philosophical Basis (PB) and Core Va
 
 2.1 An individual has the right to freedom of thought and self-expression, so far as this does not undermine our philosophical basis or core values. (PB401)
 
-Amendment 8
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-8">Amendment #8</h3>
+</div>
+    
 Delete the words, ‘thought and’
+  
+</div>          
+            
 
 
-
-Amendment 9
-
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-9">Amendment #9</h3>
+</div>
+    
 Remove section 2.1 and replace it with the following text from the current Code of Conduct:
 
 Members’ right to freedom of thought, conscience and belief should be respected (CoC 8.1)
-
-\*
+  
+</div>          
+            
 
 2.2 An individual has the right to freedom of behaviour provided such action does not harm others. (PB403)
 
@@ -168,31 +207,42 @@ Members’ right to freedom of thought, conscience and belief should be respecte
 
 2.6 Members who believe they have observed breaches of Section 3 have a duty to report this using the complaints procedure (see Section 5) or another relevant process.
 
-Amendment 10
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-10">Amendment #10</h3>
+</div>
+    
 Remove section 2.3 “ An individual must take responsibility for the consequences of their own actions” and change subsequent numbering.
+  
+</div>          
+            
 
-Amendment 11
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-11">Amendment #11</h3>
+</div>
+    
 Remove section 2.6 “Members who believe they have observed breaches of Section 3 have a duty to report this using the complaints procedure (see Section 5) or another relevant process”
+  
+</div>          
+            
 
-Amendment 12
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-12">Amendment #12</h3>
+</div>
+    
 Delete the words, ‘have a duty’
 
 Insert the words, ‘must weigh up whether’.
 
-
-
 This also to apply in paragraph 3:24
-
-\*
+  
+</div>          
+            
 
 **3.0 Expectations**
 
@@ -208,21 +258,29 @@ This also to apply in paragraph 3:24
 
 3.5 We must not spread unfounded rumours about other party members or members of staff.
 
-Amendment 13
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-13">Amendment #13</h3>
+</div>
+    
 Insert sentence, ‘This includes violence against property as well as persons.
+  
+</div>          
+            
 
-Amendment 14
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-14">Amendment #14</h3>
+</div>
+    
 Add the word “maliciously” to 3.5 so it now reads:
 
 3.5 We must not maliciously spread unfounded rumours about other party members or members of staff.
-
-\*
+  
+</div>          
+            
 
 3.6 We must not insult or act disrespectfully towards other party members or members of staff – but it is not a breach of this clause to hold others to account, criticise the conduct of others within reason, or accuse others of wrongdoing (including but not limited to breaches of this Members’ Code of Conduct).
 
@@ -230,10 +288,12 @@ Add the word “maliciously” to 3.5 so it now reads:
 
 3.8 We must not publicly undermine or contradict the *Green Party’s* *Core Values*.
 
-Amendment 15
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-15">Amendment #15</h3>
+</div>
+    
 Add the “Green Party’s Core Values” here for clarity as they are not detailed nor attached to this document
 
 So 3.8 now reads:
@@ -250,15 +310,14 @@ So 3.8 now reads:
 
 *5. Every person, in this and future generations, is entitled to basic material security. 6. Our actions should take account of the well-being of other nations, other species, and future generations. We should not pursue our well-being to the detriment of theirs or assume that interventions by us are always helpful.*
 
-*7. A healthy society is based on voluntary co-operation between empowered individuals in a democratic society, free from discrimination whether based on race, colour, gender,*
-
-*sexual orientation, religion, social origin or any other prejudice.*
+*7. A healthy society is based on voluntary co-operation between empowered individuals in a democratic society, free from discrimination whether based on race, colour, gender, sexual orientation, religion, social origin or any other prejudice.*
 
 *8. We emphasise democratic participation and accountability by ensuring that decisions are taken at the closest practical level to those affected by them.*
 
 *9. We look for non-violent solutions to conflict situations, which take into account the interests of minorities and future generations in order to achieve lasting settlements. 10.Electoral politics is not the only way to achieve change in society, and we will use a variety of methods, including lifestyle changes, and non-violent direct action, to help effect progress, providing those methods do not conflict with our other core principles.*
-
-\*
+  
+</div>          
+            
 
 3.9 We must conduct ourselves in a way that enables the Green Party to be a space that is as safe or safer than society as a whole. Our conduct towards members and staff should be: tolerant, considerate, respectful, and civil.
 
@@ -270,23 +329,29 @@ So 3.8 now reads:
 
 3.12 We must not stand for election against a properly selected Green Party candidate or campaign for a person standing against a properly selected Green Party candidate, nor act as their agent.
 
-Amendment 16
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-16">Amendment #16</h3>
+</div>
+    
 Remove section 3.10 entirely.
+  
+</div>          
+            
 
-Amendment 17
 
-*Peter Sims*, David Wild, Nadine Storey, Cath Sutherland, Richard McCarthy*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-17">Amendment #17</h3>
+</div>
+    
 (Part A) At the end of the section titled "General Conduct”, insert the following additional number points and then renumber the document:
 
 3.X Members should always assume other members are acting with the best intent, unless there is clear evidence to the contrary.
-
-\*
-
-
+  
+</div>          
+            
 
 **Internal Democracy**
 
@@ -294,25 +359,33 @@ Amendment 17
 
 3.14 We must respect the properly authorised autonomy and democratic decision making of constituent parts of the Green Party.
 
-Amendment 18
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-18">Amendment #18</h3>
+</div>
+    
 Remove 3.14 and change subsequent numbering.
-
-\*
+  
+</div>          
+            
 
 3.15 We must not improperly disrupt Green Party meetings or procedures.
 
 3.16 We must not abuse any actual or perceived position of power, influence, responsibility, or trust that we may have over other party members or members of staff.
 
-Amendment 19
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-19">Amendment #19</h3>
+</div>
+    
 Replace “abuse” with “take advantage of” in 3.16
 
-SOC Note: The remaining text of this amendment was found to be Out of Order for being trivial
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> The remaining text of this amendment was found to be Out of Order for being trivial</p>
+  
+</div>          
+            
 
 3.17 We must not blackmail, coerce, or improperly influence other party members or members of staff in a way which interferes with internal or external democratic decision-making.
 
@@ -334,59 +407,76 @@ SOC Note: The remaining text of this amendment was found to be Out of Order for 
 
 3.24 Members have a duty to report any wrongdoing they have witnessed and must do so using the disputes and complaints process (see Section 5) or another suitable and properly authorised procedure (see Clause 1.2).
 
-Amendment 20
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-20">Amendment #20</h3>
+</div>
+    
 Remove 3.24 and alter subsequent numbering.
-
-\*
+  
+</div>          
+            
 
 3.25 We must not abuse the disputes and complaints process by submitting complaints contrary to the *UPVAM Guidance*.
 
-SOC Note: the acronym ‘UPVAM’ as used here and in motion D15 stands for ‘Unreasonable, Persistent, Vexatious, Abusive or Malicious’.
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> The acronym ‘UPVAM’ as used here and in motion D15 stands for ‘Unreasonable, Persistent, Vexatious, Abusive or Malicious’.</p>
 
 3.26 We must consider recusing ourselves from decisions where we may have a conflict of interest, as set out in the *guidance on recusal*.
 
-Amendment 21
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-21">Amendment #21</h3>
+</div>
+    
 Replace “must consider recusing ourselves” in 3.26 with “must recuse ourselves”.
 
 3.26 should now state:
 
 3.26 We must recuse ourselves from decisions where we may have a conflict of interest, as set out in the guidance on recusal.
+  
+</div>          
+            
 
-Amendment 22
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-22">Amendment #22</h3>
+</div>
+    
 Delete words, ‘consider recusing’ and ‘may’
 
 Insert word, ‘recuse’
-
-
-
-\*
+  
+</div>          
+            
 
 **Agents of the Party**
 
 3.27 Members in a position of responsibility organising meetings or activities have a duty of care to ensure attendees are not put in harm’s way as a result of negligence.
 
-Amendment 23
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-23">Amendment #23</h3>
+</div>
+    
 Remove section 3.27 and change subsequent numbering.
+  
+</div>          
+            
 
-Amendment 24
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-24">Amendment #24</h3>
+</div>
+    
 Insert the words, ‘or for the benefit of the members of their Special Interest Group, if they are on the committee of such a body.’
-
-\*
+  
+</div>          
+            
 
 3.28 When we speak on behalf of the Green Party (including but not limited to: Leadership, Spokespeople, candidates for political office, public office holders, and internal office holders), if we are expressing a view differing from Green Party policy then we must ensure we also state Green Party policy and make clear that our views are not Green Party policy.
 
@@ -410,52 +500,66 @@ Insert the words, ‘or for the benefit of the members of their Special Interest
 
 This document is to be kept under review by a group known as the Code of Conduct Oversight Body, consisting of: the Co-Chairs of Green Party Regional Council (GPRC), the Chair of Disciplinary Committee (DC), the Coordinator of the Alternative Disputes Resolution Committee (ADRC), and the Chair of the Green Party Executive (GPEx), or their deputies or substitutes.
 
-Amendment 25
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-25">Amendment #25</h3>
+</div>
+    
 Add “Head of Governance” to the membership of the Code of Conduct Oversight Body.
-
-\*
+  
+</div>          
+            
 
 4.1 Updating – Standing Orders Committee (SOC) may make simple updates or corrections to this Code as to numbering, terminology, names of groups, references to other procedures or documents as they change – and should do so promptly so as to keep this document relevant, up to date, and fit for purpose.
 
 4.2 Revision – The Code of Conduct Oversight Body may propose revisions to this document on which it has reached consensus after consultation with relevant staff. If there is consensus, the changes will take effect immediately without requirement for further ratification. Revisions for which there is a majority in favour but not consensus are to be ratified via inclusion in a report from the oversight body to the next Conference. Subject to a majority Conference vote in favour of the report, any revision shall take immediate effect.
 
-Amendment 26
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-26">Amendment #26</h3>
+</div>
+    
 Replace “the changes will take effect immediately without requirement for further ratification” with “the changes will take effect immediately, membership will be informed of the changes immediately and the changes will be ratified at the next conference and membership promptly informed of them”.
+  
+</div>          
+            
 
-Amendment 27
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-27">Amendment #27</h3>
+</div>
+    
 Delete the whole sentence beginning ‘If there is consensus…’
 
 Insert in the sentence beginning, ‘Revisions for which…’ the phrase ‘, alongside consensus decisions,’ so that it reads,
 
-
-
 ‘Revisions for which there is a majority in favour but not consensus, alongside consensus decisions, are to be ratified via inclusion in a report from the oversight body to the next Conference.’
-
-
-
-\*
+  
+</div>          
+            
 
 4.3 Appending documents – From time to time a body with the competent authority to do so may produce a supplementary organisational document and propose that it be appended to this Members’ Code of Conduct. The proposal must specify exactly which clauses or parts of clauses are to be appended, which has the effect of making them grounds for disciplinary action. A consensus decision of the oversight body is sufficient to bring the changes into effect, otherwise a change to an appendix for which there is a majority in favour but not a consensus shall be brought to the next Conference for ratification via a report, as set out in the above clause. Appendices may be changed or removed under this provision.
 
-Amendment 28
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-28">Amendment #28</h3>
+</div>
+    
 Replace “propose” with “send a formal proposal to the oversight body” in 4.3.
+  
+</div>          
+            
 
-Amendment 29
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-29">Amendment #29</h3>
+</div>
+    
 Replace “A consensus decision of the oversight body is sufficient to bring the changes into effect, otherwise a change to an appendix for which there is a majority in favour but not a consensus shall be brought to the next Conference for ratification via a report, as set out in the above clause”
 
 with “The oversight body will review the proposal, agree which clauses or parts of clauses could legitimately be added to the MCC and bring these to the next Conference for ratification via a report, as set out above. If approved by a majority at conference, members will be promptly informed of the additions”.
@@ -463,6 +567,9 @@ with “The oversight body will review the proposal, agree which clauses or part
 4.3 now reads:
 
 4.3 Appending documents – From time to time a body with the competent authority to do so may produce a supplementary organisational document and send a formal proposal to the oversight body that it be appended to this Members’ Code of Conduct. The proposal must specify exactly which clauses or parts of clauses are to be appended, which has the effect of making them grounds for disciplinary action.The oversight body will review the proposal, agree which clauses or parts of clauses could legitimately be added to the MCC and bring these to the next Conference for ratification via a report, as set out above. If approved by a majority at conference, members will be promptly informed of the additions. Appendices may be changed or removed under this provision.
+  
+</div>          
+            
 
 Amendment 30
 
@@ -474,15 +581,9 @@ Delete the words from, ‘A consensus decision…’ to the words. ‘into effec
 
 [](<>)Insert the words, ‘Both consensus decisions about changes and’
 
-
-
 So that new text reads:
 
-
-
 ‘Both consensus decisions about changes and a change to an appendix for which there is a majority in favour but not a consensus shall be brought to the next Conference for ratification via a report, as set out in the above clause.’
-
-
 
 \*
 
@@ -506,13 +607,7 @@ Insert after the final words of the paragraph the words, ‘save in any Guide ma
 
 Include new descriptive paragraph: ‘The Guides already include self-contradictory material, and as they are aids for those making decisions who may not have experienced a particular kind of discrimination, they are by their very nature subjective descriptions.’
 
-
-
-
-
 **5.0 Complaints Procedure**
-
-
 
 The complaints procedure is outlined in the Standing Orders for Party Discipline (SOPD). This is available on the members website alongside supporting documentation and guidance.
 
@@ -521,8 +616,6 @@ The following documents support the disputes and complaints process:
 * GPRC Guidance on recusal
 * GPRC Guidance on anonymity
 * GPRC Guidance and procedure on UPVAM (Unreasonable, Persistent, Malicious, and Vexatious Complaints)
-
-
 
 Please note that this list may be incomplete.\
 The latest supporting documents can be found on the members website.**\
@@ -556,8 +649,6 @@ Members should also be familiar with the guidance available in the Framework for
 
 * Antisemitism: A Guidance
 * GPRC Guidance to Identify Queerphobia
-
-
 
 Please note that this list may be incomplete.\
 The latest supporting documents can be found on the members website.

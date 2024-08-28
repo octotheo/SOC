@@ -4,9 +4,10 @@ toc: "true"
 title: 2024 General Election Manifesto – Alignment with Climate aspects of
   Policies for a Sustainable Society
 motion_code:
-  number: 1
+  number: -1
 status: draft
 spaces: https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/post/post/view?id=14180
+coproposers: ""
 ---
 ## **Synopsis**
 

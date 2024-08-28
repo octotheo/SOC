@@ -4,7 +4,7 @@ toc: "true"
 title: 2024 General Election Manifesto - Ratification
 motion_code:
   section: C
-  number: 4
+  number: 5
 status: draft
 coproposers: 5
 affiliated: true

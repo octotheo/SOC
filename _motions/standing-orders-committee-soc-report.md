@@ -5,7 +5,7 @@ title: Standing Orders Committee (SOC) Report
 motion_code:
   section: A
   number: 1
-status: draft
+status: tbd
 coproposers: 5
 affiliated: true
 ---

@@ -4,7 +4,7 @@ toc: "true"
 title: Enabling Motion to Rewrite the Education Chapter
 motion_code:
   section: E
-  number: 15
+  number: 16
 status: draft
 coproposers: 6
 affiliated: true

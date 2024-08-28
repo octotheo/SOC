@@ -5,7 +5,7 @@ title: Improving Trans Policy On Non-Binary Identities
 motion_code:
   section: E
   number: 12
-status: draft
+status: tbd
 coproposers: 16
 ---
 ## Synopsis

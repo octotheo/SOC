@@ -5,7 +5,7 @@ title: Revise Safe Spaces Policies to Enable Proper Debate
 motion_code:
   section: D
   number: 21
-status: draft
+status: tbd
 coproposers: 17
 ---
 ## Synopsis

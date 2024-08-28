@@ -5,7 +5,7 @@ title: Supporting 50s Women CEDAWinLAW Campaign
 motion_code:
   section: E
   number: 19
-status: draft
+status: tbd
 coproposers: 13
 ---
 ## Background

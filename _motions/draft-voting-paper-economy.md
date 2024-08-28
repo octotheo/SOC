@@ -5,7 +5,7 @@ title: "Draft Voting Paper: Economy"
 motion_code:
   section: F
   number: 1
-status: draft
+status: tbd
 coproposers: 9
 affiliated: true
 ---

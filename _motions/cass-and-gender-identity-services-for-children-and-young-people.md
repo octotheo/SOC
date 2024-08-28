@@ -5,7 +5,7 @@ title: Cass and Gender Identity Services for Children and Young People
 motion_code:
   section: E
   number: 21
-status: draft
+status: tbd
 coproposers: 17
 ---
 ## Synopsis

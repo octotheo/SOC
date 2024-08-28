@@ -4,7 +4,7 @@ toc: "true"
 title: Amend Standing Orders for Party Discipline
 motion_code:
   section: D
-  number: 3
+  number: 5
 status: tbd
 coproposers: 15
 ---

@@ -4,7 +4,7 @@ toc: "true"
 title: Abolish Landlords
 motion_code:
   section: E
-  number: 19
+  number: 10
 status: draft
 coproposers: 38
 ---

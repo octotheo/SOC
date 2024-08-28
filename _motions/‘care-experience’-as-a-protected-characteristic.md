@@ -5,7 +5,7 @@ title: ‘Care Experience’ as a Protected Characteristic
 motion_code:
   section: E
   number: 4
-status: draft
+status: tbd
 coproposers: 26
 ---
 ## Synopsis

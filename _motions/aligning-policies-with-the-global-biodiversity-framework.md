@@ -5,7 +5,7 @@ title: Aligning Policies with the Global Biodiversity Framework
 motion_code:
   section: C
   number: 2
-status: draft
+status: tbd
 coproposers: 4
 affiliated: true
 ---

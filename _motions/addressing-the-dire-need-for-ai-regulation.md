@@ -12,7 +12,7 @@ coproposers: 21
 
 Despite the lack of prominence given to this issue in recent election, the likely impact of AI on our lives now and in the near future demands serious and urgent action. We feel it is imperative that we have clear policy in place showing how we will regulate AI for
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: synopsis word limit reached</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Synopsis word limit reached</p>
 
 ## Motion
 

@@ -5,7 +5,7 @@ title: Change the Members’ Code of Conduct
 motion_code:
   section: D
   number: 15
-status: draft
+status: tbd
 coproposers: 6
 affiliated: true
 ---

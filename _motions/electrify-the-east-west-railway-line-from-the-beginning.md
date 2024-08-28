@@ -5,7 +5,7 @@ title: Electrify the East-West Railway Line from the Beginning
 motion_code:
   section: E
   number: 2
-status: draft
+status: tbd
 coproposers: 21
 ---
 ## Synopsis

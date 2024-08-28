@@ -5,7 +5,7 @@ title: 2024 General Election Manifesto - Ratification
 motion_code:
   section: C
   number: 5
-status: draft
+status: tbd
 coproposers: 5
 affiliated: true
 ---

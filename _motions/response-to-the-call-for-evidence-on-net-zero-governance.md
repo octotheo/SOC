@@ -5,7 +5,7 @@ title: Response to the Call for Evidence on Net Zero Governance
 motion_code:
   section: E
   number: 22
-status: draft
+status: tbd
 coproposers: 4
 affiliated: true
 ---

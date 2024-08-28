@@ -6,7 +6,7 @@ title: Enabling Motion to Seek Approval for the Work of the International
 motion_code:
   section: E
   number: 18
-status: draft
+status: tbd
 coproposers: 6
 affiliated: true
 ---

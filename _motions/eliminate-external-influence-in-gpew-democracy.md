@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Eliminate External Influence in GPEW Democracy
 motion_code:
-  section: E
+  section: D
   number: 13
 status: draft
 coproposers: 17

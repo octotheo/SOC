@@ -45,5 +45,3 @@ RR540: We also call for a full, public, independent inquiry, supported by Parli
 RR541: We seek to support those who have medically transitioned and then detransitioned, to better understand the reasons and the impacts this may cause. While regret rates for trans affirming healthcare is the lowest of almost all forms of healthcare, and the detransition rate is very low, it is important that these members of the trans community are not forgotten, and are given proper support and care.
 
 **Renumber the further parts of the Trans Rights policy section as appropriate.**
-
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> We are still finalising our background paper on this motion. We are open to constructive critisism; please be mindful of how you present that critisism. The best place to provide this is via email *[info@lgbtiqa.greenparty.org.uk](mailto:info@lgbtiqa.greenparty.org.uk]*</p>

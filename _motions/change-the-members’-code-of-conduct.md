@@ -1,7 +1,7 @@
 ---
 layout: motion
 toc: "true"
-title: Change the Members’ Code of Conduct
+title: "Change the Members’ Code of Conduct ** "
 motion_code:
   section: D
   number: 15

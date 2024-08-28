@@ -5,7 +5,7 @@ title: GPEW and the Global Climate and Ecological Emergency
 motion_code:
   section: E
   number: 15
-status: draft
+status: tbd
 coproposers: 12
 ---
 ## Synopsis

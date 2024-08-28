@@ -5,7 +5,7 @@ title: Abolish Landlords
 motion_code:
   section: E
   number: 10
-status: draft
+status: tbd
 coproposers: 38
 ---
 ## S﻿ynopsis

@@ -571,12 +571,12 @@ with “The oversight body will review the proposal, agree which clauses or part
 </div>          
             
 
-Amendment 30
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
-Amendment 12:
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-30">Amendment #30</h3>
+</div>
+    
 Delete the words from, ‘A consensus decision…’ to the words. ‘into effect, otherwise’
 
 [](<>)Insert the words, ‘Both consensus decisions about changes and’
@@ -584,28 +584,39 @@ Delete the words from, ‘A consensus decision…’ to the words. ‘into effec
 So that new text reads:
 
 ‘Both consensus decisions about changes and a change to an appendix for which there is a majority in favour but not a consensus shall be brought to the next Conference for ratification via a report, as set out in the above clause.’
-
-\*
+  
+</div>          
+            
 
 4.4 No appended document may nullify or be in conflict with any clause in this Members’ Code of Conduct, the GPEW Constitution, or the Standing Orders for Party Discipline. A document proposed to be appended to this Code under Clause 4.3 also may not be in conflict with or nullify a document that is already appended to it.
 
-Amendment 31
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-31">Amendment #31</h3>
+</div>
+    
 Remove section “A document proposed to be appended to this Code under Clause 4.3 also may not be in conflict with or nullify a document that is already appended to it” of 4.4
 
 Section 4.4 now reads:
 
 4.4 No appended document may nullify or be in conflict with any clause in this Members’ Code of Conduct, the GPEW Constitution, or the Standing Orders for Party Discipline.
+  
+</div>          
+            
 
-Amendment 32
 
-*Anne Baker*, Alex Geddis, Marcus Grant, Cee Alexander*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-32">Amendment #32</h3>
+</div>
+    
 Insert after the final words of the paragraph the words, ‘save in any Guide materials produced concerning one of the nine protected characteristics listed under the Equality Act 2010: age, disability, gender reassignment, marriage and civil partnership, race, religion or belief, sex, sexual orientation, pregnancy and maternity.
 
 Include new descriptive paragraph: ‘The Guides already include self-contradictory material, and as they are aids for those making decisions who may not have experienced a particular kind of discrimination, they are by their very nature subjective descriptions.’
+  
+</div>          
+            
 
 **5.0 Complaints Procedure**
 
@@ -653,10 +664,12 @@ Members should also be familiar with the guidance available in the Framework for
 Please note that this list may be incomplete.\
 The latest supporting documents can be found on the members website.
 
-Amendment 33
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-33">Amendment #33</h3>
+</div>
+    
 Remove “Members should also be familiar with the guidance available in the Framework for Ethics and Conduct, which provides additional context relevant to the Members’ Code of Conduct and its appendices and guide its interpretation and application:
 
 \- GPRC Guidance on Bringing the Party into Disrepute
@@ -694,11 +707,16 @@ Appended By: Spring Conference 2015
 Oversight Body: GPEx
 
 Latest Version: Version 1, Dated 15/04/2015
+  
+</div>          
+            
 
-Amendment 34
 
-*Jessica Goldfinch*, Anne Johnson, Debra Cooper, Linda Oubridge*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-34">Amendment #34</h3>
+</div>
+    
 Add the Glossary section detailed below:
 
 Glossary:
@@ -756,10 +774,11 @@ Campaign:
 work in an organised and active way in support of, or against, a political party, a referendum campaigner or a candidate standing for election
 
 For example: delivering leaflets, supportive social media posts, door knocking for a candidate
+  
+</div>          
+            
 
-\*
-
-AMENDMENT 1 PROPOSED REPLACEMENT Text:
+## Amendment 1 proposed full motion text (otherwise unamended)
 
 These amendments change “We” to “Members” or “Members/volunteers” throughout (with one exception); amend the grammar as necessary, eg in some sentences “we” has been replaced by “they”, and “our” to “their”; other amendments shown below.
 

@@ -4,7 +4,7 @@ toc: "true"
 title: Standing Orders Committee (SOC) Report
 motion_code:
   section: A
-  number: -1
+  number: 1
 status: draft
 coproposers: 5
 affiliated: true

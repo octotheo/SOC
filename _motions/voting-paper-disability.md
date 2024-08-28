@@ -11,7 +11,9 @@ affiliated: true
 ---
 ## Synopsis
 
-N/A
+N/A.\
+\
+[B﻿ackground paper available here.](https://spaces.greenparty.org.uk/file/file/download?guid=658a2432-8c55-486a-b128-460347e753dc&hash_sha1=76d9ef67)
 
 ## Paper
 
@@ -19,7 +21,7 @@ DY100 This policy relates to all disabilities including injury, illness, or cong
 
 DY101 Disability is a social phenomenon and an evolving concept. Disability results from the interaction between people with impairments and the attitudes and barriers that hinder their full and effective participation in society on an equal basis with others. 
 
-### Background 
+### Background
 
 DY200 Traditional legal and policy views of ‘disability’ have been based on the 'medical’ or ‘individual’ models. “Fixing” impairments by aids, assistive technology, and rehabilitation have been emphasised where the individual model dominates. While we do need effective provision in this area to enable people to live an independent life, it is important to understand how society disables people. Many disabled people in Wales and England do not feel that they are being listened to by those in power and are concerned that their rights are not on the agenda, let alone being protected. 
 
@@ -33,11 +35,11 @@ DY204 The Social Model is an alternate way of understanding access issues and so
 
 DY205 While not all disabled people agree with the Social Model, and there are challenges that it may not include the experiences of those with chronic pain or other disabilities, it is largely understood that the Social Model aims to be emancipatory and push for social and structural change to be more inclusive, rather than demand the individual changes. 
 
-### Principles and Policies 
+### Principles and Policies
 
 DY300 If disabled people are to be able to participate fully in mainstream society, the way that society is organised must be changed. Removing barriers which exclude and disable people with impairments can bring about this change. 
 
-### Social and Political Enablement 
+### Social and Political Enablement
 
 DY400 The Green Party supports Article 19 of the UNCRPD, which commits to independent living and sets out a framework which government and local authorities can use to improve the ability of disabled people to achieve independent living in England and Wales. 
 
@@ -57,7 +59,7 @@ DY407 The Green Party is committed to ensuring that all new policies should be c
 
 DY408 Public awareness of the level of oppression of disabled people must be raised through a public awareness campaign to be devised jointly with disabled peoples’ groups. This broader societal awareness is important to reduce the stigma and violence experienced by disabled people. 
 
-### Economic empowerment 
+### Economic empowerment
 
 DY500 The Green Party recognises that disabled people are far more likely to live in poverty and we will therefore work towards ensuring that this is addressed through income policies and by ensuring effective equality of opportunity in life skills, education, training, and employment. 
 
@@ -87,7 +89,7 @@ DY512 The Green Party would institute a legal requirement to report pay inequali
 
 DY513 The Green Party would mandate that specific leave for disability be recorded separately from sick leave. 
 
-### Enabling Education and Training 
+### Enabling Education and Training
 
 DY600 The Green Party believes that the inclusion of the history of disabled people and the Social Model of Disability in the Welsh and English curriculum is vital to overcoming ableism. 
 
@@ -115,7 +117,7 @@ DY611 The transition between children’s and adult’s services can be traumati
 
 DY612 Many higher education facilities are not accessible; for a variety of reasons. The Green Party would ensure that all HE institutions are accessible to all students. 
 
-### Transport 
+### Transport
 
 DY701 The Green Party will ensure that public transport policies are developed in collaboration with local communities and based on need. 
 
@@ -133,7 +135,7 @@ DY707 Public transport design must consider the diversity of disabled people, th
 
 DY708 The Green Party would ensure proper enforcement over the use of disabled spaces in public transport. While we appreciate space is at a premium, spaces (e.g. for wheelchair users) must be protected, and transport officials given appropriate power and support to enforce this. 
 
-### Disabled People at Risk 
+### Disabled People at Risk
 
 DY801 Disabled people must be able to report all crimes, including disability-motivated hate crimes, in an accessible and safe manner that suits them. Current processes for reporting crime are not suitable for many individuals, leading to a lack of support, a lower reporting rate and underreporting in statistics. 
 
@@ -143,7 +145,7 @@ DY803 Greater support and training must be provided to all emergency services to
 
 DY804 Many of the individual actions we take to reduce our risk have financial implications. Disabled people experience poverty at higher rates while also often requiring more financial support to simply live an equal life. Grants and funds must be made available to support disabled people to take individual actions which can increase their resilience in times of risk. 
 
-### Housing 
+### Housing
 
 DY901 New housing which is built should aim to meet the needs of today and the future. They should be built with accessibility in mind, either with required services already provided or the ability to retrofit them when needed. 
 
@@ -151,7 +153,7 @@ DY902 Disabled people should be able to remain in their own homes when they wish
 
 DY903 Stronger protections should be available for disabled individuals who rent, both existing renters who acquire a disability/have a progressive condition and need adaptations while in an existing property and new renters. 
 
-### Disabled People and personal energy use 
+### Disabled People and personal energy use
 
 DY1001 Any personal carbon budgets, or restrictions on personal emissions must take individual circumstances into account, including disability-specific needs for equipment, diet, or transport. 
 

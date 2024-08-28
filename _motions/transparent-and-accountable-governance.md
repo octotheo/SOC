@@ -5,7 +5,7 @@ title: Transparent and Accountable Governance
 motion_code:
   section: D
   number: 12
-status: draft
+status: tbd
 coproposers: 22
 ---
 ## Synopsis

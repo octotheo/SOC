@@ -5,7 +5,7 @@ title: "Voting Paper: Disability"
 motion_code:
   section: B
   number: 1
-status: draft
+status: tbd
 coproposers: 8
 affiliated: true
 ---

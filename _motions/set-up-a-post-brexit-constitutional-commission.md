@@ -5,7 +5,7 @@ title: Set Up a Post-Brexit Constitutional Commission
 motion_code:
   section: E
   number: 23
-status: draft
+status: tbd
 coproposers: 22
 ---
 ## Synopsis

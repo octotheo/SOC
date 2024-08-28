@@ -5,7 +5,7 @@ title: Alternative Dispute Resolution Committee (ADRC) Report
 motion_code:
   section: A
   number: 3
-status: draft
+status: tbd
 coproposers: 5
 affiliated: true
 ---

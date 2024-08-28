@@ -5,7 +5,7 @@ title: Reducing Conflict Over Gender Critical Debate
 motion_code:
   section: D
   number: 17
-status: draft
+status: tbd
 coproposers: 21
 ---
 ## Synopsis

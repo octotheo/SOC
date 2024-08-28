@@ -5,7 +5,7 @@ title: Anti-Hindutva Humanitarian Stance
 motion_code:
   number: 6
   section: E
-status: draft
+status: tbd
 coproposers: 19
 ---
 ## Synopsis

@@ -6,7 +6,7 @@ title: Recognition of Israeli ‘Apartheid’, Israel’s ‘Genocide’ and Sup
 motion_code:
   section: E
   number: 5
-status: draft
+status: tbd
 coproposers: 38
 ---
 ## Synopsis

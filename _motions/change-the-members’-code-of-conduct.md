@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Change the Members’ Code of Conduct
 motion_code:
-  section: E
+  section: D
   number: 15
 status: draft
 coproposers: 6

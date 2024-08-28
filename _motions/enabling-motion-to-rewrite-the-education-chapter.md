@@ -5,7 +5,7 @@ title: Enabling Motion to Rewrite the Education Chapter
 motion_code:
   section: E
   number: 16
-status: draft
+status: tbd
 coproposers: 6
 affiliated: true
 ---

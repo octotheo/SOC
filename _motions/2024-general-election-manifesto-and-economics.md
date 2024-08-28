@@ -5,7 +5,7 @@ title: 2024 General Election Manifesto and Economics
 motion_code:
   section: C
   number: 4
-status: draft
+status: tbd
 coproposers: 9
 affiliated: true
 ---

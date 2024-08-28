@@ -5,7 +5,7 @@ title: Enabling Motion for Culture, Media and Sport Policy Rewrite
 motion_code:
   section: E
   number: 8
-status: draft
+status: tbd
 coproposers: 5
 affiliated: true
 ---

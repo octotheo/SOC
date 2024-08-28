@@ -5,7 +5,7 @@ title: Freeports
 motion_code:
   section: C
   number: 6
-status: draft
+status: tbd
 coproposers: 5
 affiliated: true
 ---

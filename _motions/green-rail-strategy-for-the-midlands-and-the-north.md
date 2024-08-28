@@ -9,6 +9,39 @@ status: draft
 coproposers: 40
 affiliated: false
 ---
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+undefined
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2">Amendment #2</h3>
+</div>
+    
+undefined
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-3">Amendment #3</h3>
+</div>
+    
+undefined
+  
+</div>          
+            
+
 ## Synopsis
 
 This motion calls for HS2 to be funded and completed in full, including the entire eastern leg and an underground through station at Manchester Piccadilly. This motion also calls for the full potential of HS2 to be achieved by building in full Northern Powerhouse Rail which will use HS2 infrastructure.

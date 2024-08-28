@@ -5,7 +5,7 @@ title: Enabling Motion for Crime and Justice Policy Voting Paper
 motion_code:
   section: E
   number: 13
-status: draft
+status: tbd
 coproposers: 17
 ---
 ## Synopsis

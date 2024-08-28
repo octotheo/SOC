@@ -5,7 +5,7 @@ title: Moving Forward Cooperatively
 motion_code:
   section: D
   number: 17
-status: draft
+status: tbd
 coproposers: 18
 ---
 ## Synopsis

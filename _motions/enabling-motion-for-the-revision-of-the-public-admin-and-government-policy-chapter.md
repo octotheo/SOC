@@ -6,7 +6,7 @@ title: Enabling Motion for the Revision of the Public Admin and Government
 motion_code:
   section: E
   number: 14
-status: draft
+status: tbd
 coproposers: 6
 ---
 ## Synopsis

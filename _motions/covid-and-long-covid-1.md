@@ -5,7 +5,7 @@ title: COVID and Long COVID
 motion_code:
   section: E
   number: 7
-status: draft
+status: tbd
 coproposers: 18
 ---
 ## Motion

@@ -5,7 +5,7 @@ title: Counter Partisanship and Build Consensus Skills
 motion_code:
   number: 19
   section: D
-status: draft
+status: tbd
 coproposers: 19
 ---
 ## Synopsis

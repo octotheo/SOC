@@ -5,7 +5,7 @@ title: Reforming Trans Healthcare
 motion_code:
   section: E
   number: 20
-status: draft
+status: tbd
 coproposers: 19
 ---
 ## Synopsis

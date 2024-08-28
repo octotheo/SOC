@@ -5,7 +5,7 @@ title: Special Interests Need Special Manifestoes
 motion_code:
   section: D
   number: 20
-status: draft
+status: tbd
 coproposers: 30
 ---
 ## Synopsis

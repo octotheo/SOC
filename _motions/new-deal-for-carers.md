@@ -5,7 +5,7 @@ title: New Deal For Carers
 motion_code:
   section: E
   number: 11
-status: draft
+status: tbd
 coproposers: 15
 ---
 ## Synopsis

@@ -5,7 +5,7 @@ title: Eliminate External Influence in GPEW Democracy
 motion_code:
   section: D
   number: 13
-status: draft
+status: tbd
 coproposers: 17
 ---
 ## Synopsis

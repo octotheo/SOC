@@ -5,7 +5,7 @@ title: Reaffirm the UK’s Commitment to Timely Climate Action
 motion_code:
   section: C
   number: 7
-status: draft
+status: tbd
 coproposers: 6
 affiliated: true
 ---

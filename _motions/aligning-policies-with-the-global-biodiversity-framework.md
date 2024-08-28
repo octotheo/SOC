@@ -155,19 +155,21 @@ So that the whole clause reads: 
 
 WH202 The national strategy will include developing the joined-up Nature Regeneration Network WH107 \[renumbered from WH106], incorporating both land and aquatic environments, to allow the movement of species and the regeneration of new habitats. The whole network will have protected status and be brought under effective long term management to enhance and maintain biodiversity. The Regeneration Network will be recognised within planning legislation and the Rights for Nature Act, severely limiting any activity that damages nature. \[See also LD302].
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> There is a link included to the briefing paper for this motion below:  <https://spaces.greenparty.org.uk/file/file/download?guid=b58d8551-5593-491b-b4a2-5b29154df05f&hash_sha1=5fe48adf></p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
 
-Amendment 1
 
-*Celia Coram*, Joanna Collins, Linda MacCallum Stewart, Libby Hudson*
-
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
 **Amendments to the Forestry Chapter FR601** currently reads:
 
 **FR601** There will be a strong presumption against the permanent removal of woodland; any loss will be balanced by equivalent forest and woodland creation elsewhere, under the ultimate supervision of the UKFWC.
 
 **Add** after “any loss” (e.g. any removal of inappropriate forestry) so that the paragraph reads: **FR601** There will be a strong presumption against the permanent removal of woodland; any loss (e.g. any removal of inappropriate forestry) will be balanced by equivalent forest and woodland creation elsewhere, under the ultimate supervision of the UKFWC.
 
-***Add new policy FR905** after policy* FR904.
+**\*Add new policy FR905** after policy* FR904.
 
 “**FR905** Areas of unharvested forestry and woodland in the UK will be enhanced and increased (in consultation with devolved governments), with strong measures for protection in perpetuity, as per WH120 and subject to FR601, to support the targets in the Kunming-Montreal Global Biodiversity Framework, as per policy numbered WH104. This will be achieved by state funding and planning policies.”
 
@@ -248,3 +250,5 @@ Then start a new sentence: “The Regeneration Network will be…
 So that the whole clause reads:
 
 **WH202** The national strategy will include developing the joined-up Nature Regeneration Network WH107 \[renumbered from WH106], incorporating both land and aquatic environments, to allow the movement of species and the regeneration of new habitats. The whole network will have protected status and be brought under effective long-term management to enhance and maintain biodiversity. The Regeneration Network will be recognised within planning legislation and the Rights of Nature Act, severely limiting any activity that damages nature \[See also LD302].
+  
+</div>

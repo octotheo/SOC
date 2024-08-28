@@ -9,7 +9,7 @@ status: draft
 coproposers: 40
 affiliated: false
 ---
-#﻿# Synopsis
+## Synopsis
 
 This motion calls for HS2 to be funded and completed in full, including the entire eastern leg and an underground through station at Manchester Piccadilly. This motion also calls for the full potential of HS2 to be achieved by building in full Northern Powerhouse Rail which will use HS2 infrastructure.
 

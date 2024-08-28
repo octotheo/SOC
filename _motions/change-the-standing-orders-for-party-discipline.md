@@ -5,7 +5,7 @@ title: Change the Standing Orders for Party Discipline
 motion_code:
   section: D
   number: 16
-status: draft
+status: tbd
 coproposers: 6
 affiliated: true
 ---

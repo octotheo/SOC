@@ -4,7 +4,7 @@ toc: "true"
 title: Reducing Conflict Over Gender Critical Debate
 motion_code:
   section: D
-  number: 17
+  number: 18
 status: tbd
 coproposers: 21
 ---

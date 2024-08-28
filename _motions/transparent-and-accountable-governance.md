@@ -3,7 +3,7 @@ layout: motion
 toc: "true"
 title: Transparent and Accountable Governance
 motion_code:
-  section: E
+  section: D
   number: 12
 status: draft
 coproposers: 22

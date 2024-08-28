@@ -5,7 +5,7 @@ title: Policy Development Committee (PDC) Report
 motion_code:
   section: A
   number: 2
-status: draft
+status: tbd
 coproposers: 1
 affiliated: true
 ---

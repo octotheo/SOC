@@ -5,7 +5,7 @@ title: Conflict of Interests – Joint Membership of SOC and GPRC
 motion_code:
   section: D
   number: 14
-status: draft
+status: tbd
 coproposers: 13
 ---
 ## Synopsis

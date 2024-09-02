@@ -159,8 +159,6 @@ So that the whole clause reads: 
 
 WH202 The national strategy will include developing the joined-up Nature Regeneration Network WH107 \[renumbered from WH106], incorporating both land and aquatic environments, to allow the movement of species and the regeneration of new habitats. The whole network will have protected status and be brought under effective long term management to enhance and maintain biodiversity. The Regeneration Network will be recognised within planning legislation and the Rights for Nature Act, severely limiting any activity that damages nature. \[See also LD302].
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
-
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">

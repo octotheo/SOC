@@ -13,6 +13,10 @@ affiliated: true
 
 Motion to make the changes necessary to comply with commitments on international agreements on biodiversity which the UK government has signed.
 
+## P﻿roposers
+
+Wildlife & Habitats PWG: Celia Coram*,Libby Hudson, Linda MacCallum-Stewart, Joanna Collins
+
 ## Motion
 
 **Amendment to the Forestry Chapter**

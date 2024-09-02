@@ -19,7 +19,15 @@ Climate Emergency PWG: Phil Horton*, John McClintock, Tony Cooke, Pamela Harling
 
 ## Motion
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Per the addendum to A01 above, the effect of ratification of that document would be that this motion falls automatically</p>
+
+Conference is asked to ratify the Green Party General Election Manifesto 2024, Long Version with Cover, as a policy statement.
+
+## Background
+
+The objective of this motion is, in the absence of any other motion from GPRC or PDC, to ratify the Green Party General Election Manifesto 2024, Long Version with Cover, as posted at  [ https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf](https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf), to introduce the Manifesto to Conference to allow members to vote on it as policy, with or without any amendments that may be brought.
+
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> There is a link included to the briefing paper for this motion below:  <https://spaces.greenparty.org.uk/file/file/download?guid=7ba8cfad-053a-40e9-adc7-42803cd85255&hash_sha1=d6d78d1b></p>
 
 
 <div class="amendment amendment-tbd">

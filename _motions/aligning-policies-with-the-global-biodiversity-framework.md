@@ -173,7 +173,7 @@ WH202 The national strategy will include developing the joined-up Nature Regener
 
 **Add** after “any loss” (e.g. any removal of inappropriate forestry) so that the paragraph reads: **FR601** There will be a strong presumption against the permanent removal of woodland; any loss (e.g. any removal of inappropriate forestry) will be balanced by equivalent forest and woodland creation elsewhere, under the ultimate supervision of the UKFWC.
 
-**\*Add new policy FR905** after policy* FR904.
+***Add new policy FR905** after policy* FR904.
 
 “**FR905** Areas of unharvested forestry and woodland in the UK will be enhanced and increased (in consultation with devolved governments), with strong measures for protection in perpetuity, as per WH120 and subject to FR601, to support the targets in the Kunming-Montreal Global Biodiversity Framework, as per policy numbered WH104. This will be achieved by state funding and planning policies.”
 

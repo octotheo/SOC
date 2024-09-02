@@ -159,7 +159,7 @@ So that the whole clause reads: 
 
 WH202 The national strategy will include developing the joined-up Nature Regeneration Network WH107 \[renumbered from WH106], incorporating both land and aquatic environments, to allow the movement of species and the regeneration of new habitats. The whole network will have protected status and be brought under effective long term management to enhance and maintain biodiversity. The Regeneration Network will be recognised within planning legislation and the Rights for Nature Act, severely limiting any activity that damages nature. \[See also LD302].
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Here is a link to the background paper. https://spaces.greenparty.org.uk/file/file/download?guid=b58d8551-5593-491b-b4a2-5b29154df05f&hash_sha1=5fe48adf</p>
 
 
 <div class="amendment amendment-tbd">
@@ -168,8 +168,6 @@ WH202 The national strategy will include developing the joined-up Nature Regener
 </div>
     
 **Amendments to the Forestry Chapter FR601** currently reads:
-
-
 
 **FR601** There will be a strong presumption against the permanent removal of woodland; any loss will be balanced by equivalent forest and woodland creation elsewhere, under the ultimate supervision of the UKFWC.
 

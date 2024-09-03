@@ -65,7 +65,7 @@ On p. 45, increase the Business Taxes figure by £3bn per year and adjust the to
 
 3)     Carbon Tax
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This section of the motion would fall away if section 9 of motion C03 is passed, since it asks for the same thing.</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
 
 Correction to basis of figures being carbon dioxide or equivalent, not carbon.
 
@@ -123,4 +123,6 @@ Insert: ‘Additional public investment required’
 
 ## Background
 
-[T﻿he background paper is available here.](https://spaces.greenparty.org.uk/file/file/download?guid=359da589-c836-4501-82f7-4adc487d102d&hash_sha1=ef0b5b9e)
+T﻿he background paper is available here:
+
+<a href="/files/background-paper-for-manifesto-2024-and-economics-final.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

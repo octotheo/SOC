@@ -205,7 +205,7 @@ Amendments found to be Out of Order are listed in Appendix 8 with reasons given.
 
 ### **A report on SOC’s participation in the Agenda process including any motions or amendments that SOC is submitting to conference**
 
-SOC and staff opened the [Agenda Forum following the end of Autumn Conference 2023 in Greenspaces here](https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/)[](https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/?contentId=178000&commentId=34998) and a calendar of deadlines was posted there.
+SOC and staff opened the [Agenda Forum following the end of Autumn Conference 2023 in Greenspaces here](https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/) and a calendar of deadlines was posted there.
 
 Attempting to build on the lessons learned from Conferences in 2022 and 2023 and continue what committee members regarded as good practice, SOC continued to try and hold meetings every two weeks wherever possible to manage the throughflow of work, and have continued to take advantage of the ‘Trello’ platform to make deliberating and voting on rulings and advice easier.
 
@@ -219,7 +219,7 @@ The First Agenda meeting of SOC was held on 24th July 2023. Since the truncated 
 
 SOC has previously noted that the sheer quantity of motions proposed by members to Conference, while encouraging from a democratic standpoint, does create a sizeable amount of work for volunteers. That trend appears to have continued in preparation for this Conference, as evidenced by the 105 motions which were originally noted on the Forum and subsequently whittled down. SOC notes again a need to consider how better to manage such a through-flow of motions going forward.
 
-Owing to technical difficulties presented by the opening of a separate Forum for [Amendments](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums) and [Late Motions](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home), SOC asked that members place these items on the same Agenda Forum used for all other Conference business in the time before these forums were eventually opened on 26th July 2024.[https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home)].
+Owing to technical difficulties presented by the opening of a separate Forum for [Amendments](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums) and [Late Motions](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home), SOC asked that members place these items on the same Agenda Forum used for all other Conference business in the time before these forums were eventually opened on 26th July 2024.
 
 ### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)The Prioritisation Ballot
 

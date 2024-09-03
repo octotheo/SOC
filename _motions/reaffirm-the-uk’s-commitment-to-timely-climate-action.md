@@ -9,13 +9,13 @@ status: tbd
 coproposers: 6
 affiliated: true
 ---
-## Synopsis
-
-*Current climate policy aligns with the Paris Agreement and United Nations processes. This motion proposes loosening our policy links to those agreements and states that the UK will accelerate climate action independently. This does not negate our internationalist view but recognises that current approaches will not deliver quickly enough.*
-
 ## P﻿roposers
 
 Climate Emergency PWG: Phil Horton*, Tony Cooke, Tony Firkins, Nadine Storey, John McClintock, Pamela Harling
+
+## Synopsis
+
+*Current climate policy aligns with the Paris Agreement and United Nations processes. This motion proposes loosening our policy links to those agreements and states that the UK will accelerate climate action independently. This does not negate our internationalist view but recognises that current approaches will not deliver quickly enough.*
 
 ## Motion
 
@@ -85,7 +85,7 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 
 ## Background
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> [There is a link included to the briefing paper for this motion here.](https://spaces.greenparty.org.uk/file/file/download?guid=22af7dc5-c8d9-4150-9432-27ff886b5f09&hash_sha1=cd10d38e)</p>
+T﻿here is a link to the background paper here.
 
 
 <div class="amendment amendment-tbd">
@@ -93,6 +93,8 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
     
+> *Greg Dring*, Tony Cooke, Luke Landau, Pamela Harling, Jonathan Essex, Phil Horton, Cedric Knight, Tony Firkins*
+
 In the Motion, point 1 of CC110 currently reads:
 
 “Introduce a UK equivalent to the Welsh Wellbeing of Future Generations Act, to enshrine in law the need to make decisions for the long-term benefit of humanity.”
@@ -104,22 +106,14 @@ Change this to:
 </div>          
             
 
-```
-      
-        
-```
-
-```
-      
-        
-```
-
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
     
+> *Peter Sims*, David Wild, Nadine Storey, Cath Sutherland, David Flint*
+
 Insert at the end:
 
 **Conference instructs GPEX** to ensure all Green Party Policy, as it stands after this conference’s decisions, is published on Green Party website within 6 weeks of conference such that it is accessible to members of the public and framed as current Green Party democratically agreed policy.

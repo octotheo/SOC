@@ -93,8 +93,6 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
     
-> *Greg Dring*, Tony Cooke, Luke Landau, Pamela Harling, Jonathan Essex, Phil Horton, Cedric Knight, Tony Firkins*
-
 In the Motion, point 1 of CC110 currently reads:
 
 “Introduce a UK equivalent to the Welsh Wellbeing of Future Generations Act, to enshrine in law the need to make decisions for the long-term benefit of humanity.”
@@ -112,10 +110,6 @@ Change this to:
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
     
-*Peter Sims*, David Wild, Nadine Storey, Cath Sutherland, David Flint*
-
-
-
 Insert at the end:
 
 **Conference instructs GPEX** to ensure all Green Party Policy, as it stands after this conference’s decisions, is published on Green Party website within 6 weeks of conference such that it is accessible to members of the public and framed as current Green Party democratically agreed policy.

@@ -112,7 +112,9 @@ Change this to:
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
     
-> *Peter Sims*, David Wild, Nadine Storey, Cath Sutherland, David Flint*
+*Peter Sims*, David Wild, Nadine Storey, Cath Sutherland, David Flint*
+
+
 
 Insert at the end:
 

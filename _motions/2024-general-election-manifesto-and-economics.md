@@ -65,7 +65,7 @@ On p. 45, increase the Business Taxes figure by £3bn per year and adjust the to
 
 3)     Carbon Tax
 
-SOC Note: this section of the motion would fall away if section 9 of motion C03 is passed, since it asks for the same thing.
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This section of the motion would fall away if section 9 of motion C03 is passed, since it asks for the same thing.</p>
 
 Correction to basis of figures being carbon dioxide or equivalent, not carbon.
 
@@ -123,41 +123,4 @@ Insert: ‘Additional public investment required’
 
 ## Background
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> There is a link included to the background paper for this motion below: <https://spaces.greenparty.org.uk/file/file/download?guid=359da589-c836-4501-82f7-4adc487d102d&hash_sha1=ef0b5b9e></p>
-
-
-<div class="amendment amendment-tbd">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-1">Amendment #1</h3>
-</div>
-    
-After point 5 of the motion add text: “6. Ratify Interim Policy Position on Monetary Policy posted at \[https://spaces.greenparty.org.uk/s/interim-policy-positions-forum/post/post/view?id=13955](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspaces.greenparty.org.uk%2Fs%2Finterim-policy-positions-forum%2Fpost%2Fpost%2Fview%3Fid%3D13955&data=05%7C02%7Cmartin.hemingway%40greenparty.org.uk%7C2ada6b204d604f19670508dcb5e4a3b2%7Cb549952b9d8d464e80deb68e13eeb18f%7C0%7C0%7C638585240811334008%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=sSUgC58CExWM%2FO2ucr7nuLDOoh1JnWSbNTKDAl5Y7tE%3D&reserved=0)”
-  
-</div>          
-            
-
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This Interim Policy Position was posted on Green Spaces on 11th June 2024, and at time of positing it was not clear whether or not the text referred to would be included for ratification in the Final Agenda. It is now clear that it is, as part of A02 above, and if that motion passes then this amendment automatically becomes of no consequential effect and falls away</p>
-
-
-<div class="amendment amendment-tbd">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-2">Amendment #2</h3>
-</div>
-    
-After the following words in Part 4) of the motion:  ‘‘Greens will not allow our country to be held back by fiscal rules that don’t serve us all – Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions.’\ Insert the words:\ ‘and utilise the fiscal space available to the currency issuing sovereign government.’ Such that it reads:\ ‘Greens will not allow our country to be held back by fiscal rules that don’t serve us all – Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions, and utilise the fiscal space available to the currency issuing sovereign government.’
-  
-</div>          
-            
-
-
-<div class="amendment amendment-tbd">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-3">Amendment #3</h3>
-</div>
-    
-After: “The following are changes proposed to the Green Party General Election Manifesto 2024 (GEM2024) as published on 12 June 2024 and posted at \[   https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgreenparty.org.uk%2Fapp%2Fuploads%2F2024%2F06%2FGreen-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf&data=05%7C02%7Cmartin.hemingway%40greenparty.org.uk%7C09f6e650b6cb44a92ea208dcb5e52ca4%7Cb549952b9d8d464e80deb68e13eeb18f%7C0%7C0%7C638585243253062373%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=94kzItfiIB7ChbBcMNWUXJ6kQICRvbsOEygxU5bu7Sk%3D&reserved=0)”
-  
-</div>          
-            
-
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> GEM2024 can also be any other version of the Green Party General Election Manifesto 2024 that is ratified, with page number adjustments.</p>
+[T﻿he background paper is available here.](https://spaces.greenparty.org.uk/file/file/download?guid=359da589-c836-4501-82f7-4adc487d102d&hash_sha1=ef0b5b9e)

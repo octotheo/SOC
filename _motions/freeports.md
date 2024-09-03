@@ -17,7 +17,7 @@ I am intending proposing a motion for the Party to take a well articulated posit
 
 East Midlands GP: Carl Benfield*,Debra Cooper, Paul Freeman, Heather Gilbert, Greg Simpson, Martin Blake, Darren Yates, Colin Boyle, Ben Gray
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Synopsis word limit reached</p>
 
 ## Motion
 

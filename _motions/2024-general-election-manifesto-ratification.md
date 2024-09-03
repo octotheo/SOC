@@ -9,14 +9,6 @@ status: tbd
 coproposers: 5
 affiliated: true
 ---
-## P﻿roposers
-
-Climate Emergency PWG: Phil Horton*, John McClintock, Tony Cooke, Pamela Harling, Tony Firkins
-
-## Synopsis
-
-This is a motion to ratify the Green Party General Election Manifesto 2024, Long Version with Cover.
-
 ## Motion
 
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Per the addendum to A01 above, the effect of ratification of that document would be that this motion falls automatically.</p>

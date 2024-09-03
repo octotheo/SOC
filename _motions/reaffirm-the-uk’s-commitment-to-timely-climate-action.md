@@ -85,7 +85,7 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 
 ## Background
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: there is a link included to the briefing paper for this motion below: https://spaces.greenparty.org.uk/file/file/download?guid=22ae7200-efee-485e-ab7a-9073541a5b3a&hash_sha1=75aec9a8</p>
 
 
 <div class="amendment amendment-tbd">

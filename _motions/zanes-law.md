@@ -12,6 +12,10 @@ coproposers: 15
 
 UK regulations on contaminated land are dangerously inadequate, especially given climate breakdown, rising sea levels, increased rainfall, and flooding. Zane’s Law proposes measures to address this crisis. 7-year-old Zane Gbangbola tragically died when Hydrogen Cyanide was conducted by floodwater from a contaminated landfill site into his home, in February 2014.
 
+## P﻿roposers
+
+Natalie Bennett*, Adrian Briggs, Charlotte Rae, Jessica Goldfinch, Emily O'Brien, Charles Harris, Alex Geddis, Kate Souper, Debra Cooper, Linda Oubridge, Steve Trafford, Ben Samuel, Kerry Pickett, Tom Scott, Zack Polanski
+
 ## Motion
 
 Conference notes that current UK regulations with regard to toxic waste disposal and the danger to human life, to our environment, and to the planet as a whole, from both historic landfill sites and currently approved landfill sites operating the ‘dry tomb’ principle, are dangerously inadequate. Especially so, in the face of climate breakdown, with rising sea levels, increased rainfall, and widespread flooding.
@@ -22,7 +26,7 @@ In 2014, 7-year-old Zane Gbangbola died, and his father was paralysed with a dia
 
 Conference, therefore, fully supports the Truth About Zane Campaign’s call for ‘Zane’s Law’ which *proposes* that the following measures be adopted into legislation by Government, to prioritise the protection and safety of people and planet.
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Text struck through has been found Out of Order for being vague</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
 
 The Legislation if passed would ~~likely~~ include:
 

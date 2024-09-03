@@ -8,6 +8,14 @@ motion_code:
   number: 0
 status: tbd
 ---
+## S﻿ynopsis
+
+T﻿o take the bolded part seperately from the rest of the text.
+
+## P﻿roposer
+
+D﻿ylan Lewis-Creser
+
 ## Motion
 
 The following changes are proposed to the Green Party General Election Manifesto 2024, Long Version with Cover (GEM2024):
@@ -24,25 +32,15 @@ In GEM2024 Introduction, delete “*an increase that would make human life unliv
 
 
 
-
-
-
-
-> 3.     The Manifesto is not clear how many homes will be built over the Parliament stating 150k per year “as soon as possible”.
+> **3.     The Manifesto is not clear how many homes will be built over the Parliament stating 150k per year “as soon as possible”.**
 >
-> GEM2024 page 7, first bullet point, after "*Provide 150,000 new social homes a year"* insert " *by year 5*" so that it reads:
+> **GEM2024 page 7, first bullet point, after "*Provide 150,000 new social homes a year"* insert " *by year 5*" so that it reads:**
 >
-> “*Provide 150,000 new social homes a year by year 5 and end the so-called ‘right to buy’, so that these homes can belong to communities for ever.*”
+> **“*Provide 150,000 new social homes a year by year 5 and end the so-called ‘right to buy’, so that these homes can belong to communities for ever.*”**
 >
-> GEM2024 page 8, section “Social Housing”, first paragraph. Delete "*as soon as possible*" and replace with "*by year 5 of the parliament. This will add around 300,000 net additional social rent homes to the stock over 5 years*" so that the first sentence reads:
+> **GEM2024 page 8, section “Social Housing”, first paragraph. Delete "*as soon as possible*" and replace with "*by year 5 of the parliament. This will add around 300,000 net additional social rent homes to the stock over 5 years*" so that the first sentence reads:**
 >
-> “*Our priority would be to increase Council and Housing Association provision of homes offered at low ‘social rents’ to 150,000 new homes a year, by year 5 of the parliament. This will add around 300,000 net additional social rent homes to the stock over 5 years*.”
-
-
-
-
-
-
+> **“*Our priority would be to increase Council and Housing Association provision of homes offered at low ‘social rents’ to 150,000 new homes a year, by year 5 of the parliament. This will add around 300,000 net additional social rent homes to the stock over 5 years*.”**
 
 4.     Energy efficiency standards should not be watered down in the Manifesto as they are key to achieving our agreed zero carbon target in 10 years.
 

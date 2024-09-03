@@ -9,13 +9,13 @@ status: tbd
 coproposers: 5
 affiliated: true
 ---
-## Synopsis
-
-I am intending proposing a motion for the Party to take a well articulated position on Freeports. After a reasonable level of investigation into the East Midlands Freeport in my Constituency, it is clear that the concerns apply across the whole of the UK. The lack of transparency, dubious economic
-
 ## P﻿roposers
 
 East Midlands GP: Carl Benfield*,Debra Cooper, Paul Freeman, Heather Gilbert, Greg Simpson, Martin Blake, Darren Yates, Colin Boyle, Ben Gray
+
+## Synopsis
+
+I am intending proposing a motion for the Party to take a well articulated position on Freeports. After a reasonable level of investigation into the East Midlands Freeport in my Constituency, it is clear that the concerns apply across the whole of the UK. The lack of transparency, dubious economic
 
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Synopsis word limit reached</p>
 

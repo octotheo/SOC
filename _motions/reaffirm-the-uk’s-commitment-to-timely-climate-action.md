@@ -13,6 +13,10 @@ affiliated: true
 
 *Current climate policy aligns with the Paris Agreement and United Nations processes. This motion proposes loosening our policy links to those agreements and states that the UK will accelerate climate action independently. This does not negate our internationalist view but recognises that current approaches will not deliver quickly enough.*
 
+## P﻿roposers
+
+Climate Emergency PWG: Phil Horton*, Tony Cooke, Tony Firkins, Nadine Storey, John McClintock, Pamela Harling
+
 ## Motion
 
 Changes to The Climate Emergency, Local Planning and the Built Environment, and Food and Agriculture chapters of Policies for a Sustainable Society (PSS) as follows:
@@ -37,8 +41,6 @@ CC014: As a rich country that was the first to industrialise and a major emitter
 4. Advocate an emergency international agreement to conserve and enhance carbon sinks and reservoirs including forests, peatfields and coastal and estuarine areas, and demonstrate real action within the UK.
 5. Reduce, the emissions associated with its imports by restricting the import of high carbon goods.
 6. Support the Sustainable Development Goals with the exception of Goal 8 that we do not support in its entirety due to its emphasis on economic growth (see PB106).
-
-
 
 **CC016**: for clarity, insert “*on a consumption basis*” at the end of the first sentence so that CC016 reads:
 
@@ -83,7 +85,7 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 
 ## Background
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> There is a link included to the briefing paper for this motion below:  <https://spaces.greenparty.org.uk/file/file/download?guid=22ae7200-efee-485e-ab7a-9073541a5b3a&hash_sha1=75aec9a8></p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
 
 
 <div class="amendment amendment-tbd">
@@ -101,6 +103,11 @@ Change this to:
   
 </div>          
             
+
+```
+      
+        
+```
 
 
 <div class="amendment amendment-tbd">

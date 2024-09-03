@@ -9,13 +9,13 @@ status: tbd
 coproposers: 9
 affiliated: true
 ---
-## Synopsis
-
-The 2024 General Election manifesto included many economics-related policies. The following amendments, brought by the Finance and Economy Policy Working Group, will correct errors and will support our MPs and spokespeople to put forward clear, defensible and strong policy.
-
 ## P﻿roposers
 
 Finance & Exconomy PWG: Nadine Storey*, Nicole Haydock, Nick Barnett, Alex Page, Sheridan Kates, David Wild, Danny McNamara, Leslie Davies, Colin Boyle
+
+## Synopsis
+
+The 2024 General Election manifesto included many economics-related policies. The following amendments, brought by the Finance and Economy Policy Working Group, will correct errors and will support our MPs and spokespeople to put forward clear, defensible and strong policy.
 
 ## Motion
 

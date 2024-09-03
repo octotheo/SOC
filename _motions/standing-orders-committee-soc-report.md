@@ -205,7 +205,7 @@ Amendments found to be Out of Order are listed in Appendix 8 with reasons given.
 
 ### **A report on SOC’s participation in the Agenda process including any motions or amendments that SOC is submitting to conference**
 
-SOC and staff opened the Agenda Forum following the end of Autumn Conference 2023 in Greenspaces at \[<https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/?contentId=178000&commentId=34998>] and a calendar of deadlines was posted there.
+SOC and staff opened the [Agenda Forum following the end of Autumn Conference 2023 in Greenspaces here](https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/)[](https://spaces.greenparty.org.uk/s/2024-autumn-conference-agenda-forum/?contentId=178000&commentId=34998) and a calendar of deadlines was posted there.
 
 Attempting to build on the lessons learned from Conferences in 2022 and 2023 and continue what committee members regarded as good practice, SOC continued to try and hold meetings every two weeks wherever possible to manage the throughflow of work, and have continued to take advantage of the ‘Trello’ platform to make deliberating and voting on rulings and advice easier.
 
@@ -219,7 +219,7 @@ The First Agenda meeting of SOC was held on 24th July 2023. Since the truncated 
 
 SOC has previously noted that the sheer quantity of motions proposed by members to Conference, while encouraging from a democratic standpoint, does create a sizeable amount of work for volunteers. That trend appears to have continued in preparation for this Conference, as evidenced by the 105 motions which were originally noted on the Forum and subsequently whittled down. SOC notes again a need to consider how better to manage such a through-flow of motions going forward.
 
-Owing to technical difficulties presented by the opening of a separate Forum for Amendments and Late Motions, SOC asked that members place these items on the same Agenda Forum used for all other Conference business in the time before these forums were eventually opened on 26th July 2024 at \[<https://spaces.greenparty.org.uk/s/autumn-conference-2024-amendment-forum/?contentId=251152&commentId=38358>] and \[<https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home>].
+Owing to technical difficulties presented by the opening of a separate Forum for [Amendments](<https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home>) and [Late Motions](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home), SOC asked that members place these items on the same Agenda Forum used for all other Conference business in the time before these forums were eventually opened on 26th July 2024.[https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/](https://spaces.greenparty.org.uk/s/autumn-2024-late-motions-forums/home)].
 
 ### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)The Prioritisation Ballot
 
@@ -328,7 +328,7 @@ Specifically, changes are proposed: to section H9.1(b) (affecting electronic vot
 
 A link to the proposed SOCC is given below:
 
-<https://spaces.greenparty.org.uk/file/file/download?guid=b78a910d-c5ab-4805-9c24-d492e69014ee&hash_sha1=537e8fdd>
+<a href="/files/proposed-socc-after-autumn-2024-v2.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 SOC posted these proposed changes to SOCC on its own Green Space on 22nd January 2024 and now commends those changes to SOCC to Conference. Should this report be passed, SOCC will be changed accordingly.
 
@@ -348,4 +348,4 @@ SOC will include these in its report included as part of the Annual General Meet
 
 At the request of the Co-Chairs of Green Party Regional Council (GPRC) a link is given below to the 2024 General Election manifesto as approved by that body – as distinguished from the version campaigned on, which is included as part of A02 (see below). The practical effect of ratifying this version of the document would mean that motions C03-C05 would automatically fall away.
 
-<https://spaces.greenparty.org.uk/file/file/download?guid=35562715-78aa-43c5-9f7f-d5aa5a0b3644&hash_sha1=87cbccdc>]
+<a href="/files/ge2024-manifesto-as-approved.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

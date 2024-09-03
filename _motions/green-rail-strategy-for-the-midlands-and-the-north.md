@@ -8,6 +8,10 @@ motion_code:
 status: tbd
 coproposers: 40
 ---
+## P﻿roposers
+
+Jake Welsh*, Avery Atkin-Withers, Joe Hudson-Small, Gareth Dennis, Will Jennings, Pete Johnson, Peter Brommer, Fiona Aviani-Bartram, James Nelson, Joe Lever, Mike McTimoney, Emma Garnett, Helen Hitchcock, Philip Davies, Alexander Sallons, James Crawford, Patrick McAllister, Andrew Browne, Katie Fenn, Meg Shepherd-Foster, Alan Francis, Nick Hartley, James Thorniley, Martin Farley, Daniel Humphreys, Adam Turner, Sam Easterby-Smith, Owain Sutton, Neil O'Doherty, Alex Nettle, Jaspreet Tehara, Mark Whiley, Martin Osborne, Darren Yates, Rob Freeman, Emma Dungey-Betts, Nicole Freeman, Billie Nagle, Sarah Warren, Olli Watkins
+
 ## Synopsis
 
 This motion calls for HS2 to be funded and completed in full, including the entire eastern leg and an underground through station at Manchester Piccadilly. This motion also calls for the full potential of HS2 to be achieved by building in full Northern Powerhouse Rail which will use HS2 infrastructure.
@@ -119,6 +123,11 @@ so that it reads as follows:\
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
@@ -157,6 +166,11 @@ The Green Party calls for the impact of HS2 to be improved further by funding an
   
 </div>          
             
+
+```
+      
+        
+```
 
 
 <div class="amendment amendment-tbd">

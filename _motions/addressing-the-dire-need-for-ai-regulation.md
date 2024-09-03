@@ -8,6 +8,10 @@ motion_code:
 status: tbd
 coproposers: 21
 ---
+## P﻿roposers
+
+Science & Technology PWG: Graham Taverner*,Tim Davies, Nadine Storey, Diana Newsom, Linda Freeman, Hannah T. McLellan, George Ttoouli, Ann Mills, Diane Davies, Simon Pitts, Julie Spriddle, Paul Hoekstra, Alun Davies, Diane Davies, Jack Lenox, Celia Coram, Alan Francis, Tim Davies, Simon Pitts, Malcolm Bailey, Dagan Smith
+
 ## Synopsis
 
 Despite the lack of prominence given to this issue in recent election, the likely impact of AI on our lives now and in the near future demands serious and urgent action. We feel it is imperative that we have clear policy in place showing how we will regulate AI for

@@ -31,4 +31,4 @@ A Green Government will ban greyhound racing. This will be carried out gradually
 
 ## Background
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> A link to a briefing paper for this motion is given below:  <https://spaces.greenparty.org.uk/file/file/download?guid=22af7dc5-c8d9-4150-9432-27ff886b5f09&hash_sha1=cd10d38e></p>
+[T﻿here is a link to the background paper here.](https://spaces.greenparty.org.uk/file/file/download?guid=22af7dc5-c8d9-4150-9432-27ff886b5f09&hash_sha1=cd10d38e)

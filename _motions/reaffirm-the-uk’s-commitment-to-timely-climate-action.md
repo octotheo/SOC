@@ -85,7 +85,7 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 
 ## Background
 
-[T﻿here is a link to the background paper here.](https://spaces.greenparty.org.uk/file/file/download?guid=22ae7200-efee-485e-ab7a-9073541a5b3a&hash_sha1=75aec9a8)
+<a href="/files/climate-updates-briefing-paper-v0.3.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 
 <div class="amendment amendment-tbd">
@@ -103,6 +103,11 @@ Change this to:
   
 </div>          
             
+
+```
+      
+        
+```
 
 
 <div class="amendment amendment-tbd">

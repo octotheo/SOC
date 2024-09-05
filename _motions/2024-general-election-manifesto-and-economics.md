@@ -67,7 +67,7 @@ On p. 45, increase the Business Taxes figure by £3bn per year and adjust the to
 
 3)     Carbon Tax
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This section of the motion would fall away if section 9 of motion C03 is passed, since it asks for the same thing.</p>
 
 Correction to basis of figures being carbon dioxide or equivalent, not carbon.
 

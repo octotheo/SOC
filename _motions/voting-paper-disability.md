@@ -11,9 +11,11 @@ affiliated: true
 ---
 ## Synopsis
 
-N/A.\
-\
-[B﻿ackground paper available here.](https://spaces.greenparty.org.uk/file/file/download?guid=658a2432-8c55-486a-b128-460347e753dc&hash_sha1=76d9ef67)
+N/A.
+
+## B﻿ackground
+
+<a href="/files/disability-policy-dvp-background-paper.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 ## Paper
 

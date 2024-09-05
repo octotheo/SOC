@@ -11,13 +11,17 @@ affiliated: true
 ---
 ## Motion
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> Per the addendum to A01 above, the effect of ratification of that document would be that this motion falls automatically.</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> per the addendum to A01 above, the effect of ratification of that document would be that this motion falls automatically</p>
 
 ## Background
 
-The objective of this motion is, in the absence of any other motion from GPRC or PDC, to ratify the Green Party General Election Manifesto 2024, Long Version with Cover, as posted at  [ https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf](https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf), to introduce the Manifesto to Conference to allow members to vote on it as policy, with or without any amendments that may be brought.
+The objective of this motion is, in the absence of any other motion from GPRC or PDC, to ratify the Green Party General Election Manifesto 2024, Long Version with Cover, as posted below,[](https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf) to introduce the Manifesto to Conference to allow members to vote on it as policy, with or without any amendments that may be brought.
 
-[T﻿he briefing paper for this motion is available here.](https://spaces.greenparty.org.uk/file/file/download?guid=7ba8cfad-053a-40e9-adc7-42803cd85255&hash_sha1=d6d78d1b)
+<a href="/files/green-party-2024-general-election-manifesto-long-version-with-cover.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
+
+<a href="/files/manifesto-ratification-briefing-paper-v0.3.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
+
+
 
 
 <div class="amendment amendment-tbd">
@@ -27,6 +31,9 @@ The objective of this motion is, in the absence of any other motion from GPRC or
     
 After the motion sentence add text:
 
-“Ratify Interim Policy Position on Interim policy for manifesto posted at [https://spaces.greenparty.org.uk/s/interim-policy-positions-forum/post/post/view?id=14154](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspaces.greenparty.org.uk%2Fs%2Finterim-policy-positions-forum%2Fpost%2Fpost%2Fview%3Fid%3D14154&data=05%7C02%7Cmartin.hemingway%40greenparty.org.uk%7C18a33f44454145cf447808dcb71e6fd9%7Cb549952b9d8d464e80deb68e13eeb18f%7C0%7C0%7C638586588560872201%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=wsaFdSDJdPto0xMoYO1uPVzb6B9QTr7QEi%2BMV23D798%3D&reserved=0)
+“Ratify Interim Policy Position on Interim policy for manifesto posted at
   
-</div>
+</div>          
+            
+
+<a href="/files/interim-policy-for-manifesto.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

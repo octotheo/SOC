@@ -19,7 +19,9 @@ The 2024 General Election manifesto included many economics-related policies. Th
 
 ## Motion
 
-The following are changes proposed to the Green Party General Election Manifesto 2024 (GEM2024) as published on 12 June 2024 and posted at [ https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf](https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf)
+The following are changes proposed to the Green Party General Election Manifesto 2024 (GEM2024) as published on 12 June 2024.
+
+<a href="/files/green-party-2024-general-election-manifesto-long-version-with-cover.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 1)     Property Taxes
 

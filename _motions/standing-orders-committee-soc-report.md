@@ -21,6 +21,17 @@ Some of these have since been moved to the SOC report required by the Annual Gen
 
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This places the AGM beyond the completion date of this Conference and makes a strong recommendation to all members to make every effort to attend the AGM so that quoracy can be achieved and the relevant reports voted on.</p>
 
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+undefined
+  
+</div>          
+            
+
 #### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Amendments to section A: 
 
 Amendments to motions A01 and A02 can be made from the floor of Conference.

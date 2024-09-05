@@ -91,7 +91,7 @@ GEM2024 page 10, section “Accelerating clean energy investment and delivery”
 
 9.     Correction to basis of figures being carbon dioxide equivalent, not carbon.
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This section of the motion, if passed, would mean that section 3 of motion C04 would fall away, since it asks for the same thing.</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
 
 GEM2024 page 21, section “Carbon Tax”, second paragraph, after “*£120 per tonne”* add “*of carbon dioxide equivalent”* and after “*£500 per tonne”* delete “*of carbon”* so that it reads:
 
@@ -101,7 +101,9 @@ GEM2024 page 21, section “Carbon Tax”, second paragraph, after “*£120 per
 
 These changes will aid our four new MPs in speaking to our Manifesto and our approved policy base with confidence, and without fear of being challenged about any contradictions between the Manifesto and our published policy.
 
-Note that this Motion assumes that the Manifesto has been approved as Policy, either by default or through ratification at Conference. Page references, unless otherwise stated, are to the Green Party General Election Manifesto 2024, Long Version with Cover, as posted at [ https://greenparty.org.uk/about/our-manifesto/2024-manifesto-downloads/](https://greenparty.org.uk/about/our-manifesto/2024-manifesto-downloads/). Some changes, either to the Manifesto or to Policies for a Sustainable Society (PfSS) are required as the Manifesto directly contradicts existing policy statements. Others are required to ensure that the Manifesto realistically meets the requirements of PfSS. The latter points are based on the comprehensive Energy Policy Model (EPM) developed by a sub-group of the Climate Emergency Policy Working Group (CEPWG), <https://spaces.greenparty.org.uk/s/energy-policy-working-group/>.
+Note that this Motion assumes that the Manifesto has been approved as Policy, either by default or through ratification at Conference. Page references, unless otherwise stated, are to the Green Party General Election Manifesto 2024, Long Version with Cover. Some changes, either to the Manifesto or to Policies for a Sustainable Society (PfSS) are required as the Manifesto directly contradicts existing policy statements. Others are required to ensure that the Manifesto realistically meets the requirements of PfSS. The latter points are based on the comprehensive Energy Policy Model (EPM) developed by a sub-group of the Climate Emergency Policy Working Group (CEPWG), <https://spaces.greenparty.org.uk/s/energy-policy-working-group/>.
+
+<a href="/files/green-party-2024-general-election-manifesto-long-version-with-cover.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 
 <div class="amendment amendment-tbd">

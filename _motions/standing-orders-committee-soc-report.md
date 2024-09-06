@@ -17,7 +17,9 @@ Under Standing Orders, the SOC Report is to include: "(1) The Final Agenda and O
 
 Some of these have since been moved to the SOC report required by the Annual General Meeting, and where appropriate reference is made to those papers.
 
-## **The Final Agenda and Ordering of Motions for Conferenc**Amendments to section A: 
+## **The Final Agenda and Ordering of Motions for Conference**
+
+## Amendments to section A: 
 
 Amendments to motions A01 and A02 can be made from the floor of Conference.
 

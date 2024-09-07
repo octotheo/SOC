@@ -9,6 +9,8 @@ status: tbd
 coproposers: 6
 affiliated: true
 ---
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This motion will require a 2/3 majority to pass’</p>
+
 ## Synopsis
 
 This motion amends the party’s disputes and complaints process to make it more transparent, humane, accountable, and in line with our values. These changes were recommended by conference workshops, workings groups reviewing different elements, staff familiar with the Disputes and Complaints process, and industry best practice.
@@ -53,6 +55,11 @@ And replace with
 </div>          
             
 
+```
+      
+        
+```
+
 **Transition:**
 
 Upon passage of this motion, all existing members of the Disciplinary committee shall remain in post until the next annual ballot. At the first annual ballot after the passage of this motion, 20 members will be elected such that 10 are elected to an ordinary 2 year term, and another 10 are elected to a shortened 1 year term such that the terms become staggered as set out in SOPD 1.1.1 (see below).
@@ -91,6 +98,11 @@ And replace with\
   
 </div>          
             
+
+```
+      
+        
+```
 
 1.1.1 The membership shall be 20 members elected to 2 year terms, half of whom shall be elected at each Annual Ballot such that the terms are staggered.
 
@@ -192,14 +204,17 @@ Support participants with any reasonable adjustments, including asking for any t
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-4">Amendment #4</h3>
 </div>
     
-
-
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> The part of this amendment dealing with the Constitution will require a 2/3 majority to pass.</p>
 
 AMEND the existing clause 4.7 of the constitution, which currently states:
@@ -213,22 +228,29 @@ vii) No member of the Party may be a candidate for any other party in an electio
 AMEND clause 3.2 of the proposed SOPD:
 
 3.2 The Complaints Manager or another delegated member of staff should:\
-- Be a liaison with the person submitting a complaint.\
-- Offer to speak with the complainant to discuss and assist with finalising their complaint so that it may be properly submitted.\
-- Be responsible for notifying a complainant once their complaint has been properly submitted and received.\
-- Support participants with any reasonable adjustments, including asking for any times where they will be unable to participate in a hearing, if they know this in advance.
+
+* Be a liaison with the person submitting a complaint.\
+* Offer to speak with the complainant to discuss and assist with finalising their complaint so that it may be properly submitted.\
+* Be responsible for notifying a complainant once their complaint has been properly submitted and received.\
+* Support participants with any reasonable adjustments, including asking for any times where they will be unable to participate in a hearing, if they know this in advance.
 
 **Add** an additional point " - liaise with the local party Executive to establish whether mediation or local resolution may be possible, or Regional Executive if no local party is present". This would then form an amended 3.2 of the SOPD:
 
 3.2 The Complaints Manager or another delegated member of staff should:\
-- Be a liaison with the person submitting a complaint.\
-- Offer to speak with the complainant to discuss and assist with finalising their complaint so that it may be properly submitted.\
-- Be responsible for notifying a complainant once their complaint has been properly submitted and received.\
-- Support participants with any reasonable adjustments, including asking for any times where they will be unable to participate in a hearing, if they know this in advance.\
-- Liaise with the local party Executive to establish whether mediation or local resolution may be possible, or Regional Executive if no local party is present
+
+* Be a liaison with the person submitting a complaint.\
+* Offer to speak with the complainant to discuss and assist with finalising their complaint so that it may be properly submitted.\
+* Be responsible for notifying a complainant once their complaint has been properly submitted and received.\
+* Support participants with any reasonable adjustments, including asking for any times where they will be unable to participate in a hearing, if they know this in advance.\
+* Liaise with the local party Executive to establish whether mediation or local resolution may be possible, or Regional Executive if no local party is present
   
 </div>          
             
+
+```
+      
+        
+```
 
 3.3 Members will *not* be required to indicate which specific rules have been broken, though the form will provide an opportunity for them to do so, should they feel comfortable doing so. When a member has indicated which rules they believe have been broken, this shall only be to advise the assigned Investigators, not to bind them.
 
@@ -276,6 +298,11 @@ Their correspondence will be sent to the body to which the complaint has been re
   
 </div>          
             
+
+```
+      
+        
+```
 
 **5 Investigations**
 
@@ -370,6 +397,11 @@ If appropriate the Committee will offer additional advice and/or guidance as to 
 </div>          
             
 
+```
+      
+        
+```
+
 7.4 Decisions of the assigned panel members shall be made by a simple majority.\
 Dissent may be recorded by way of a minority report when appropriate, provided this is submitted such that it can be included with the rest of the decision.
 
@@ -394,6 +426,11 @@ Delete paragraph that begins “Procedural unfairness.…”
 </div>          
             
 
+```
+      
+        
+```
+
 The Appeals Committee is not to consider evidence relating to the conduct or facts alleged in the case.
 
 
@@ -407,6 +444,11 @@ Delete paragraph that begins “The Appeals Committee.....”
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
@@ -417,6 +459,11 @@ Delete paragraph that begins “The Appeals Committee.....”
   
 </div>          
             
+
+```
+      
+        
+```
 
 8.2 Members wishing to make an appeal of an earlier decision must do so within four calendar weeks of receipt of that decision.
 
@@ -430,6 +477,11 @@ Delete “four calendar weeks” in 8.2 and replace with “28 days”
   
 </div>          
             
+
+```
+      
+        
+```
 
 8.3 The Regional Council shall produce an appeals form (including accessible versions as required) and the party shall make the appeals form(s) available on the members website and/or to members who have received a disciplinary sanction.
 
@@ -450,6 +502,11 @@ appeal on one or more of the following grounds: 8.1.1, 8.1.2, 8.1.3 or\
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
@@ -465,6 +522,11 @@ and renumber all paragraphs from this point on
   
 </div>          
             
+
+```
+      
+        
+```
 
 8.5 The Appeals Committee will consider Appeals made against 8.1.1 and/or 8.1.2.
 
@@ -483,6 +545,11 @@ If no ground of appeal is upheld by the Appeals Committee, it shall be dismissed
 </div>          
             
 
+```
+      
+        
+```
+
 8.6 The Appeals Committee may hold a hearing with the Appellant or may issue a decision based on what has been provided in writing, as it deems appropriate.
 
 
@@ -498,6 +565,11 @@ to determine the appeal.”
   
 </div>          
             
+
+```
+      
+        
+```
 
 8.7 If the Appeal is not upheld, the case is concluded and the earlier decision becomes final.
 
@@ -517,6 +589,11 @@ Edited 8.9 The Appeals Committee shall have jurisdiction to hear Appeals to disc
   
 </div>          
             
+
+```
+      
+        
+```
 
 8.10 While an Appeal is under consideration, any sanctions imposed by the Disciplinary Committee, Local, or Regional party shall remain in effect.
 
@@ -601,6 +678,11 @@ Standing Orders Committee may make minor textual amendments as required.”
 </div>          
             
 
+```
+      
+        
+```
+
 11.3 The Standing Orders and Procedures of the Disciplinary Committee (SOPDC) and other appendices to SOPD may be amended by either:
 
 * A simple majority of Conference
@@ -635,6 +717,11 @@ Standing Orders Committee may make minor textual amendments as required.”
   
 </div>          
             
+
+```
+      
+        
+```
 
 11.4 At the conclusion of a Dispute or Complaint, Complainants and Respondents shall each be provided by staff with an anonymous feedback survey where they will be asked if they have any recommended improvements and whether they have any protected characteristics (with the option not to declare).\
 \
@@ -673,6 +760,11 @@ And renumber the rest of the document to reflect the deletion of paragraph 13.2.
 </div>          
             
 
+```
+      
+        
+```
+
 13.3 The basis for imposing a temporary suspension shall be that based on the information available there is either (i) a significant likelihood of continued misconduct which would harm individuals, bodies, or the party as a whole which may be mitigated by imposing a suspension, or (ii) a significant reputational risk for the party.
 
 13.4 Breach of a temporary suspension shall be considered by the panel members in the case when considering sanctions, and may also be justification for the submission of additional complaints or other appropriate action.
@@ -685,7 +777,7 @@ When a breach of temporary suspension or other sanction is reported by way of a 
 
 13.7 The Regional Council shall keep a record of its temporary suspension decisions using a standardised form.
 
-***Appendix A**: **Standing Orders and Procedures of the Disciplinary Committee (SOPDC)***
+**\*Appendix A**: **Standing Orders and Procedures of the Disciplinary Committee (SOPDC)***
 
 (To be provided at a later date)
 

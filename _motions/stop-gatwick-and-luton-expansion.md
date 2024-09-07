@@ -5,7 +5,7 @@ title: Stop Gatwick and Luton Expansion
 motion_code:
   section: EM
   number: 2
-status: tbd
+status: passed
 coproposers: 74
 ---
 ## M﻿otion

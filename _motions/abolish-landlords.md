@@ -35,7 +35,7 @@ The Green Party would use its existing policies like a Land Value Tax, Rent Cont
 3. Tax the Landlords - move towards a Land Value Tax levied on Owners, not Tenants. No Exceptions. Business Rates on AirBnBs/Short Lets. No Exceptions. Double taxation for empty properties. Put National Insurance on Private Rents. (HO401, EC780-2)
 4. Remove finance for Landlords - end Buy to Let mortgages. (HO521)
 5. Provide government backed finance to tenants. Give tenants First Right to Buy when Landlords sell, with their total rent paid discounted.
-6. Provide finance to Councils. Councils should be given Second Right to Buy when Landlords sell, or property that hasn’t been insulated to EPC rating C or fails to meet the decent homes standard, or any property that is left empty for more than six months, with the total current tenancy discounted, tenants moved to a truly affordable Council tenancy. Government must change prudential borrowing requirements to allow Councils to buy back and build new housing on a massive scale. (2024 Manifesto Pg9)
+6. Provide finance to Councils. Councils should be given Second Right to Buy when Landlords sell, or property that hasn’t been insulated to EPC rating C or fails to meet the decent homes standard, or any property that is left empty for more than six months, with the total current tenancy discounted, tenants moved to a truly affordable Council tenancy. Government must change prudential borrowing requirements to allow Councils to buy back and build new housing on a massive scale. (2024 Manifesto Pg9).
 
 Insert into PfSS;
 

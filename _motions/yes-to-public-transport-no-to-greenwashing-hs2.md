@@ -10,7 +10,7 @@ coproposers: 56
 ---
 ## Synopsis
 
-At Spring Conference of 2011, the Green Party passed policy TR11.3, to oppose HS2, which was to be reviewed if HS2 would reduce demand for transport, energy use, land take and CO2 emissions. On all of these tests, the case for HS2 has got worse and opposition should be renewed.
+At Spring Conference of 2011, the Green Party passed policy TR11.3, to oppose HS2, which was to be reviewed if HS2 would reduce demand for transport, energy use, land take and CO2 emissions. On all of these tests, the case for HS2 has got worse and opposition should be renewed. 
 
 ## Motion
 

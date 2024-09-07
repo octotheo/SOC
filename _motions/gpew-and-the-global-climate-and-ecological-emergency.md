@@ -35,15 +35,3 @@ The GPEW should seek to work with other organisations and individuals to dema
 Background
 
 <p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> The background for this motion is located at Appendix 5</p>
-
-
-<div class="amendment amendment-tbd">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-1">Amendment #1</h3>
-</div>
-    
-Insert at the end:
-
-**Conference instructs GPEX** to ensure all Green Party Policy, as it stands after this conference’s decisions, is published on Green Party website within 6 weeks of conference such that it is accessible to members of the public and framed as current Green Party democratically agreed policy.
-  
-</div>

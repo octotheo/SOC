@@ -85,6 +85,19 @@ Such that it reads:
 
 ‘£120 per tonne of carbon dioxide equivalent (CO2e), rising to a maximum of £500 per tonne emitted within ten years’
 
+
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+Delete Section 4) Public Sector Debt and Section 5) Comment in the Table of numbers.
+  
+</div>          
+            
+
 4)     Public Sector Debt
 
 To shift the language around public finance.

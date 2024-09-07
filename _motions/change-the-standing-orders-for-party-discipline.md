@@ -215,8 +215,6 @@ Support participants with any reasonable adjustments, including asking for any t
 <h3 id="amendment-4">Amendment #4</h3>
 </div>
     
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> The part of this amendment dealing with the Constitution will require a 2/3 majority to pass.</p>
-
 AMEND the existing clause 4.7 of the constitution, which currently states:
 
 vii) No member of the Party may be a candidate for any other party in an election for any level of government and no member of another party may be a candidate for The Green Party in any such election except in cases of joint candidacies. No member of the Party may stand as an independent candidate against properly selected Green Party candidate(s). No member may campaign for any candidate standing against a properly selected Green Party candidate.

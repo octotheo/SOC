@@ -5,7 +5,7 @@ title: "Voting Paper: Europe"
 motion_code:
   section: B
   number: 2
-status: tbd
+status: passed
 coproposers: 7
 affiliated: true
 ---

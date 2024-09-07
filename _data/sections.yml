@@ -24,3 +24,6 @@
 
 - name: AGM Reports
   code: AGM
+
+  name: Appendix
+  code: APX

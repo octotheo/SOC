@@ -9,7 +9,7 @@ status: notdebated
 ---
 **Embracing consensus-based governance:**\
 \
-**1.** **Principles of Consensus:** The Green Party acknowledges that consensus-based decision-making aligns with our core values of participatory democracy, social justice, and environmental sustainability. Embracing consensus ensures that decisions are made collectively, considering the perspectives and input of all members.\
+**1.** **Principles of Consensus:** The Green Party acknowledges that consensus-based decision-making aligns with our core values of participatory democracy, social justice, and environmental sustainability. Embracing consensus ensures that decisions are made collectively, considering the perspectives and input of all members. \
 \
 **2.** **Inclusivity and Participation:** Consensus-based governance empowers all members to contribute to the decision-making process, creating a more inclusive and participatory environment within the party.\
 \

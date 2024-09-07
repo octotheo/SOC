@@ -5,7 +5,7 @@ title: Zane's Law
 motion_code:
   section: C
   number: 1
-status: tbd
+status: passed
 coproposers: 15
 ---
 ## Synopsis

@@ -91,7 +91,7 @@ GEM2024 page 10, section “Accelerating clean energy investment and delivery”
 
 9.     Correction to basis of figures being carbon dioxide equivalent, not carbon.
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> undefined</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> this section of the motion, if passed, would mean that section 3 of motion C04 would fall away, since it asks for the same thing.</p>
 
 GEM2024 page 21, section “Carbon Tax”, second paragraph, after “*£120 per tonne”* add “*of carbon dioxide equivalent”* and after “*£500 per tonne”* delete “*of carbon”* so that it reads:
 

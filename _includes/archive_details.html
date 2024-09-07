@@ -6,8 +6,8 @@
       {% assign conferences = site.data.archive | reverse %}
       {% for conference in conferences %}
 
-      {% assign conf_url = "archive/"| append: conference.season | append: conference.year | slugify %}
-        <h2><a href="{{ conf_url | relative_url }}">{{ conference.season }} {{conference.year }}</a></h2>
+      {% assign conf_url = conference.season | append: conference.year | slugify %}
+        <h2><a href="{{ "archive/" | append: conf_url | relative_url }}">{{ conference.season }} {{conference.year }}</a></h2>
       {% endfor %}
     </div>
   </div>

@@ -5,7 +5,7 @@ title: 2024 General Election Manifesto – Clarity on Climate
 motion_code:
   section: C
   number: 3
-status: tbd
+status: passed
 coproposers: 5
 affiliated: true
 ---

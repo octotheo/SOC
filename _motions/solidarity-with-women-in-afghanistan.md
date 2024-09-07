@@ -5,7 +5,7 @@ title: Solidarity with Women in Afghanistan
 motion_code:
   section: EM
   number: 1
-status: notdebated
+status: passed
 coproposers: 85
 ---
 ### Solidarity with Women in Afghanistan

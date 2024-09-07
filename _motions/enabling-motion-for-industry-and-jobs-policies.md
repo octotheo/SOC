@@ -5,10 +5,12 @@ title: Enabling Motion for Industry and Jobs Policies
 motion_code:
   section: E
   number: 9
-status: passed
+status: notdebated
 coproposers: 5
 affiliated: true
 ---
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> E09 had erroneously been logged as having the correct number of proposers for a motion from a Policy Working Group; in fact it had not, and so was removed from the Agenda</p>
+
 ## Synopsis
 
 This motion proposes changes to the PSS to emphasize dismantling polluting industries, specifying accelerated green-industrialization mechanisms, and extending solutions across supply chains and to ecological sources. It aims for a complete fossil fuel phase-out, ensuring just transitions without harming developing countries, and investing in sustainable technical and societal solutions.

@@ -5,7 +5,7 @@ title: Aligning Policies with the Global Biodiversity Framework
 motion_code:
   section: C
   number: 2
-status: tbd
+status: passed
 coproposers: 4
 affiliated: true
 ---
@@ -164,7 +164,7 @@ WH202 The national strategy will include developing the joined-up Nature Regener
 [T﻿he background paper for this motion is here.](https://spaces.greenparty.org.uk/file/file/download?guid=b58d8551-5593-491b-b4a2-5b29154df05f&hash_sha1=5fe48adf)
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
@@ -173,6 +173,11 @@ WH202 The national strategy will include developing the joined-up Nature Regener
   
 </div>          
             
+
+```
+      
+        
+```
 
 **Amendments to the Forestry Chapter FR601** currently reads:
 

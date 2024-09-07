@@ -5,7 +5,9 @@
       <p>You can view past conferences by clicking on the buttons below.</p>
       {% assign conferences = site.data.archive | reverse %}
       {% for conference in conferences %}
-        <h2><a href="{{ conference.season | slugify }}{{ conference.year }}/">{{ conference.season }} {{conference.year }}</a></h2>
+
+      {% assign conf_url = conference.season | slugify | append: conference.year %}
+        <h2><a href="{{ conf.url | relative_url }}">{{ conference.season }} {{conference.year }}</a></h2>
       {% endfor %}
     </div>
   </div>

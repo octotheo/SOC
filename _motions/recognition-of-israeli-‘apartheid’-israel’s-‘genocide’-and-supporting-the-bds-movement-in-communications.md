@@ -37,15 +37,3 @@ As of 2024, the systematic violence and restrictions on Palestinians meet the cr
 3. **Affirm Green Party’s Support for the Boycott, Divestment, Sanctions (BDS) Movement:**
 
 The Green Party should have included its explicit support for the BDS Palestine Movement in the 2024 manifesto. We affirm our commitment to explicitly supporting BDS in our internal and external communications going forward. Supporting the BDS movement is essential to holding Israel accountable, to supporting Palestinians’ rights to equality and self-determination, and to demonstrating that our support, as a nation, is not performative. Israel should not be able to profit from its apartheid regime or its unlawful occupation of Palestinian land. If the UK Government has learned anything from its failure to support BDS during South African Apartheid, it must be that the impact of applying political pressure is nothing without an economic response. Anti-apartheid promises are hollow if nothing is done to reform the institutions that fund apartheid regimes. The UK Government must not make the same mistakes again.
-
-
-<div class="amendment amendment-tbd">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-1">Amendment #1</h3>
-</div>
-    
-Insert at the end:
-
-**Conference instruct GPEX** to ensure all Green Party Policy as it stands after this conference’s decisions is published on Green Party website within 6 weeks of conference such that it is accessible to members of the public and framed as current Green Party democratically agreed policy.
-  
-</div>

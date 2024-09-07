@@ -101,22 +101,4 @@ Change this to:
 
 “Learning from the Welsh experience of its Well-being of Future Generations (Wales) Act, introduce a pan UK version to work with the four nations of the UK to enshrine in law in all four governments the need to make decisions for the long-term benefit of humanity.
   
-</div>          
-            
-
-```
-      
-        
-```
-
-
-<div class="amendment amendment-tbd">
-<div class="d-flex justify-content-between align-items-start">
-<h3 id="amendment-2">Amendment #2</h3>
-</div>
-    
-Insert at the end:
-
-**Conference instructs GPEX** to ensure all Green Party Policy, as it stands after this conference’s decisions, is published on Green Party website within 6 weeks of conference such that it is accessible to members of the public and framed as current Green Party democratically agreed policy.
-  
 </div>

@@ -9,7 +9,7 @@ status: tbd
 coproposers: 5
 affiliated: true
 ---
-## Motion 
+## Motion
 
 To accept the following report (as amended, if amendments are agreed) and fast-tracking recommendations (as amended, if amendments are agreed). 
 
@@ -342,8 +342,212 @@ SOC extends its thanks to Louisa Greenbaum and the teams involved in organising 
 
 SOC will include these in its report included as part of the Annual General Meeting 2024.
 
+
+<div class="amendment amendment-passed">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-1">Amendment #1</h3>
+</div>
+    
+Remove the sentence in the SOC Report, A01, that reads, "SOC has considered whether or not amendments can be made to the addendum GPEW General Election Manifesto as approved by GPRC (see below), and has concluded that this is not possible: the addendum is not a part of A01 itself, but is rather a policy document which was made available for viewing between the publication of the First and Final Agenda. There are already motions on the Agenda which propose changes to this document having passed through the Agenda process."
+
+2. Remove the addendum from the SOC Report, motion A01
+  
+</div>          
+            
+
 ### **ADDENDUM**
 
 At the request of the Co-Chairs of Green Party Regional Council (GPRC) a link is given below to the 2024 General Election manifesto as approved by that body – as distinguished from the version campaigned on, which is included as part of A02 (see below). The practical effect of ratifying this version of the document would mean that motions C03-C05 would automatically fall away.
 
 <a href="/files/ge2024-manifesto-as-approved.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
+
+
+<div class="amendment amendment-passed">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2">Amendment #2</h3>
+</div>
+    
+In “Section C”, after the wording, “The order of Section C was based on their placement in the Prioritisation Ballot and is as follows:” , insert “motion C03” into the list in the second column, making this the third C motion to be heard and in the first column on the same line, insert “E03”. Renumber all subsequent C motions in accordance with their position in the prioritisation ballot.
+  
+</div>          
+            
+
+
+<div class="amendment amendment-passed">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-3">Amendment #3</h3>
+</div>
+    
+Add to “The following motions are proposed for fast-tracking:”
+
+E04 ‘Care Experience’ as a Protected Characteristic
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-4">Amendment #4</h3>
+</div>
+    
+To section E, ‘Unaccredited Policy Motions’, add the following sentence to the end of the first paragraph:
+
+“SOC only became aware after the publication of the Final Agenda that motion E09 had erroneously been logged as having the correct number of proposers for a motion from a Policy Working Group; in fact it had not, and so was removed from the Agenda.”
+
+Thereafter remove all references to motion E09 from the Final Agenda.
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-5">Amendment #5</h3>
+</div>
+    
+Reinsert into the Agenda the following text as ‘Amendment 1’ to motion C04, omitted in error, and renumber accordingly:
+
+‘Hamish Riddoch*, Charith Gunawardena, David Wild, Graham Brand
+
+Delete Section 4) Public Sector Debt and Section 5) Comment in the Table of numbers.
+
+The full text to be deleted is presented below the background section.
+
+*BACKGROUND (MH Background)*
+
+*I understand the goal of these two sections was to begin the process of changing the narrative regarding government spending and debt, in this case, to emphasise that the government spends first by creating new money and then taxes to remove excess money from the economy, among other things.*
+
+*While I believe we do need to change the narrative around government spending, debt and taxation and Labour’s self-imposed fiscal rules, the proposed changes in these sections of the motion confuse these complex issues and potentially leave us open to criticism.*
+
+*Firstly, I note that the background paper which accompanies the motion rightly explains that:*
+
+‘*the accurate way that things work is spend, then tax, rather than the other way around.’*
+
+*And this is accompanied by supporting papers.*
+
+*However, the proposed new wording in the motion itself does not achieve this. The current manifesto wording is (final paragraph of section Public Sector Debt):*
+
+‘*Greens will not allow our country to be held back by fiscal rules that don’t serve us all – we’re prepared to tax wealth and carbon emissions and prepared to borrow to invest in a fairer future.’*
+
+*The new wording proposed in this motion is:*
+
+‘*Greens will not allow our country to be held back by fiscal rules that don’t serve us all – Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions.’*
+
+*This new wording implies, noting this is not the intention, that the Green investment in a fairer future will be funded by taxing wealth and carbon emissions.*
+
+*Secondly, by removing the words ‘and prepared to borrow to invest in a fairer future’, we risk being accused of trying to cover up that under our plans, as previously described in the already published and widely read manifesto, government debt (as it is currently understood and implemented) will rise significantly.*
+
+*Finally, in the table on page 45, changing ‘Deficit – funded by additional debt’ to ‘Additional public investment required’ without explaining where this additional investment will come from could imply that we have some unfunded spending commitments. Again, I note that this is not the intention.*
+
+*This does reflect the current narrative, which we agree needs to change. However, removing the references to the government deficit and government borrowing and debt without explaining the alternative narrative (and our current policy in this area) does leave us open to easy criticism.*
+
+*Overall, the manifesto dealt with this area well. For example, we were clear that we would increase the government deficit significantly, noting that ‘What is achievable in the first five years may be constrained by inflation risks and supply-side shortages’. This is the key constraint we would need to manage.*
+
+*A government deficit, which is where government spending exceeds taxation, is (deliberately, I suspect) a negative-sounding term which may need to change. However, this is a key issue. A government deficit not only enables higher government spending and investment, it also increases the money supply and creates new, in our case, sustainable economic activity as the additional money works its way through the economy. Currently, deficits are funded mostly by debt; with our policy, this may not be the case.*
+
+*Removing these words without a clear explanation of what replaces them is, in my view, a mistake. This complex issue might better be explained with separate briefing papers.*
+
+AMENDMENT IN FULL
+
+Delete the following:
+
+*4)     Public Sector Debt*
+
+*To shift the language around public finance.*
+
+*p. 22 of GEM2024 currently reads:*
+
+*Title: ‘Public Sector Debt’*
+
+*Final paragraph: ‘Greens will not allow our country to be held back by fiscal rules that don’t serve us all – we’re prepared to tax wealth and carbon emissions and prepared to borrow to invest in a fairer future.’*
+
+*Conference approves the following changes:*
+
+*In the title, delete ‘Debt’*
+
+*Insert ‘Investment’*
+
+*In the final paragraph, after ‘all – ‘, delete ‘we’re prepared to tax wealth and carbon emissions and prepared to borrow to invest in a fairer future.’*
+
+*Insert ‘Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions.’*
+
+*Such that it reads:*
+
+‘*Public Sector Investment’*
+
+‘*Greens will not allow our country to be held back by fiscal rules that don’t serve us all – Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions.’*
+
+*5)     Comment in table of numbers*
+
+*Further shifting of language to avoid negative connotations in the public understanding of deficit and debt.*
+
+*p. 45 of GEM2024 currently reads:*
+
+*At the bottom of the table: ‘Deficit – funded by additional debt’*
+
+*Delete: ‘Deficit – funded by additional debt’*
+
+*Insert: ‘Additional public investment required’*
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-6">Amendment #6</h3>
+</div>
+    
+Reinsert into the Agenda the following text as ‘Amendment 1’ to motion C06, omitted in error, and renumber accordingly:
+
+AMENDMENT 1
+
+Jay Ginn, Simon Hales, Peter Allen, Peter Murry*
+
+add text:
+
+‘*The Green Party notes that Freeports potentially threaten Trade Union rights to organise within workplaces to protect workers’ rights to proper pay and conditions. If Freeports are introduced in spite of opposition, all relevant Trade Unions must be fully consulted and allowed to organise their members within Freeport workplaces* .’
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-7">Amendment #7</h3>
+</div>
+    
+Remove the text of:\
+‘Amendment 2’ to motion C07;\
+‘Amendment 1’ to motion E05’; and\
+‘Amendment 1’ to E15’,\
+all of which have been included in error, from the Final Agenda text.
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-8">Amendment #8</h3>
+</div>
+    
+In the SOC note heading motion D16, amend so the first sentence reads:
+
+‘*SOC Note: this motion will require a 2/3 majority to pass*’\
+\
+And remove SOC note for Amendment 4 to this motion.
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-9">Amendment #9</h3>
+</div>
+    
+In the paragraph/list following the sentence ‘*We will hold hustings and elections for the following posts at Autumn Conference*’, amend the number in brackets following ‘*Alternative Dispute Resolution Committee’*, replacing ‘5’ with ‘2’.
+  
+</div>

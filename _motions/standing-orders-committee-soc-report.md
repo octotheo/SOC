@@ -355,6 +355,11 @@ Remove the sentence in the SOC Report, A01, that reads, "SOC has considered whet
 </div>          
             
 
+```
+      
+        
+```
+
 ### **ADDENDUM**
 
 At the request of the Co-Chairs of Green Party Regional Council (GPRC) a link is given below to the 2024 General Election manifesto as approved by that body – as distinguished from the version campaigned on, which is included as part of A02 (see below). The practical effect of ratifying this version of the document would mean that motions C03-C05 would automatically fall away.
@@ -372,6 +377,11 @@ In “Section C”, after the wording, “The order of Section C was based on th
 </div>          
             
 
+```
+      
+        
+```
+
 
 <div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
@@ -385,8 +395,13 @@ E04 ‘Care Experience’ as a Protected Characteristic
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-4">Amendment #4</h3>
 </div>
@@ -400,8 +415,13 @@ Thereafter remove all references to motion E09 from the Final Agenda.
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-5">Amendment #5</h3>
 </div>
@@ -493,8 +513,13 @@ Delete the following:
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-6">Amendment #6</h3>
 </div>
@@ -512,8 +537,13 @@ add text:
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-7">Amendment #7</h3>
 </div>
@@ -527,8 +557,13 @@ all of which have been included in error, from the Final Agenda text.
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-8">Amendment #8</h3>
 </div>
@@ -542,8 +577,13 @@ And remove SOC note for Amendment 4 to this motion.
 </div>          
             
 
+```
+      
+        
+```
 
-<div class="amendment amendment-tbd">
+
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-9">Amendment #9</h3>
 </div>

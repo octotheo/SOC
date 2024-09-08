@@ -5,7 +5,7 @@ title: 2024 General Election Manifesto - Ratification
 motion_code:
   section: C
   number: 5
-status: tbd
+status: passed
 coproposers: 5
 affiliated: true
 ---
@@ -22,8 +22,6 @@ The objective of this motion is, in the absence of any other motion from GPRC or
 <a href="/files/manifesto-ratification-briefing-paper-v0.3.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 
-
-
 <div class="amendment amendment-tbd">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
@@ -35,5 +33,10 @@ After the motion sentence add text:
   
 </div>          
             
+
+```
+      
+        
+```
 
 <a href="/files/interim-policy-for-manifesto.pdf"><button class="btn btn-secondary download-link">Download File</button></a>

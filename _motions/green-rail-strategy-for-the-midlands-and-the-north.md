@@ -5,7 +5,7 @@ title: Green Rail Strategy for the Midlands and the North
 motion_code:
   section: E
   number: 1
-status: tbd
+status: passed
 coproposers: 40
 ---
 ## P﻿roposers
@@ -29,7 +29,7 @@ The Green Party recognises that the first phase of HS2 between London and Birmin
 The Green Party calls for the impact of HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Manchester and onwards to Bradford and Leeds. This will use HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool.”
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
@@ -124,7 +124,7 @@ so that it reads as follows:\
 “To further maximise wider environmental benefits and improvements to regional inequality, the Green Party calls for HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Manchester and onwards to Bradford and Leeds. This will maximise efficient use of HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool.
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
@@ -165,7 +165,7 @@ so that it reads as follows:\
 The Green Party calls for the impact of HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Manchester and onwards to Bradford and Leeds. This will use HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool.”
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-3">Amendment #3</h3>
 </div>

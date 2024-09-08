@@ -6,7 +6,7 @@ motion_code:
   number: 3
   section: EM
 status: tbd
-coproposers: 67
+coproposers: 73
 ---
 ## M﻿otion
 

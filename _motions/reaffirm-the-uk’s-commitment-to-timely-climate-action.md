@@ -5,7 +5,7 @@ title: Reaffirm the UK’s Commitment to Timely Climate Action
 motion_code:
   section: C
   number: 7
-status: tbd
+status: passed
 coproposers: 6
 affiliated: true
 ---
@@ -88,7 +88,7 @@ FA301:  Food, Agriculture and Climate Change – climate change is the most pr
 <a href="/files/climate-updates-briefing-paper-v0.3.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>

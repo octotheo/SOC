@@ -5,7 +5,7 @@ title: 2024 General Election Manifesto and Economics
 motion_code:
   section: C
   number: 4
-status: tbd
+status: passed
 coproposers: 9
 affiliated: true
 ---
@@ -102,7 +102,7 @@ Delete Section 4) Public Sector Debt and Section 5) Comment in the Table of n
 ```
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
@@ -120,7 +120,7 @@ Such that it reads:\
             
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-defeated">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-3">Amendment #3</h3>
 </div>

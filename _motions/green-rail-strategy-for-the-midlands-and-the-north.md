@@ -5,7 +5,7 @@ title: Green Rail Strategy for the Midlands and the North
 motion_code:
   section: E
   number: 1
-status: passed
+status: tbd
 coproposers: 40
 ---
 ## P﻿roposers

@@ -5,7 +5,7 @@ title: Restoring Spring Conference
 motion_code:
   section: D
   number: 2
-status: tbd
+status: passed
 coproposers: 5
 affiliated: true
 ---
@@ -15,7 +15,7 @@ D18, autumn 2023 led to the cancellation of spring conference.  This has led to
 
 ## Motion
 
-<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> SOC Note: This motion will require a 2/3 majority to pass.</p>
+<p class="alert d-inline-block alert-primary"><strong>SOC Note: </strong> This motion will require a 2/3 majority to pass.</p>
 
 In light of the unintended consequences, particularly facilitating the updating of the Policy for a Sustainable Society, much of which is very out of date, conference resolves to reinstate spring conference to enable the policy process to run smoothly.
 

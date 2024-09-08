@@ -86,14 +86,48 @@ Such that it reads:
 ‘£120 per tonne of carbon dioxide equivalent (CO2e), rising to a maximum of £500 per tonne emitted within ten years’
 
 
-
-
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-defeated">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
     
 Delete Section 4) Public Sector Debt and Section 5) Comment in the Table of numbers.
+  
+</div>          
+            
+
+```
+      
+        
+```
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2">Amendment #2</h3>
+</div>
+    
+After the following words in Part 4) of the motion: 
+
+‘‘Greens will not allow our country to be held back by fiscal rules that don’t serve us all – Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions.’\
+Insert the words:\
+‘and utilise the fiscal space available to the currency issuing sovereign government.’
+
+Such that it reads:\
+‘Greens will not allow our country to be held back by fiscal rules that don’t serve us all – Greens will invest in a fairer future and are prepared to tax wealth and carbon emissions, and utilise the fiscal space available to the currency issuing sovereign government.’
+  
+</div>          
+            
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-3">Amendment #3</h3>
+</div>
+    
+After: “The following are changes proposed to the Green Party General Election Manifesto 2024 (GEM2024) as published on 12 June 2024 and posted at *[   https://greenparty.org.uk/app/uploads/2024/06/Green-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgreenparty.org.uk%2Fapp%2Fuploads%2F2024%2F06%2FGreen-Party-2024-General-Election-Manifesto-Long-version-with-cover.pdf&data=05%7C02%7Cmartin.hemingway%40greenparty.org.uk%7C09f6e650b6cb44a92ea208dcb5e52ca4%7Cb549952b9d8d464e80deb68e13eeb18f%7C0%7C0%7C638585243253062373%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=94kzItfiIB7ChbBcMNWUXJ6kQICRvbsOEygxU5bu7Sk%3D&reserved=0)*”
+
+Insert: GEM2024 can also be any other version of the Green Party General Election Manifesto 2024 that is ratified, with page number adjustments.
   
 </div>          
             

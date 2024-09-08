@@ -5,7 +5,7 @@ title: 2024 General Election Manifesto – Clarity on Climate
 motion_code:
   section: C
   number: 3
-status: passed
+status: defeated
 coproposers: 5
 affiliated: true
 ---
@@ -106,7 +106,7 @@ Note that this Motion assumes that the Manifesto has been approved as Policy, ei
 <a href="/files/green-party-2024-general-election-manifesto-long-version-with-cover.pdf"><button class="btn btn-secondary download-link">Download File</button></a>
 
 
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-defeated">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>

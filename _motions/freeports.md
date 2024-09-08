@@ -5,7 +5,7 @@ title: Freeports
 motion_code:
   section: C
   number: 6
-status: tbd
+status: passed
 coproposers: 5
 affiliated: true
 ---
@@ -26,9 +26,7 @@ I am intending proposing a motion for the Party to take a well articulated posit
 The Green Party opposes the introduction of Freeports and Special Economic Zones across the United Kingdom. Introduction of these areas displaces economic activity from elsewhere and reduces tax revenue that is so desperately needed by our public services. The lack of transparency in decision making and reductions in environmental, planning and employment legislation are all reasons that should alarm every UK citizen.
 
 
-
-
-<div class="amendment amendment-tbd">
+<div class="amendment amendment-passed">
 <div class="d-flex justify-content-between align-items-start">
 <h3 id="amendment-1">Amendment #1</h3>
 </div>

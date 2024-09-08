@@ -34,9 +34,12 @@ The Green Party calls for the impact of HS2 to be improved further by funding an
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
     
+I﻿nsert text below
+  
+</div>          
+            
+
 *The Green Party calls for the impact of HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Manchester and onwards to Bradford and Leeds. This will use HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool. (MH I think this is background)*
-
-
 
 In the first paragraph—\
 \
@@ -119,14 +122,6 @@ and replace with—\
 so that it reads as follows:\
 \
 “To further maximise wider environmental benefits and improvements to regional inequality, the Green Party calls for HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Manchester and onwards to Bradford and Leeds. This will maximise efficient use of HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool.
-  
-</div>          
-            
-
-```
-      
-        
-```
 
 
 <div class="amendment amendment-tbd">
@@ -134,6 +129,11 @@ so that it reads as follows:\
 <h3 id="amendment-2">Amendment #2</h3>
 </div>
     
+I﻿nsert text below
+  
+</div>          
+            
+
 After the second paragraph, insert—\
 \
 “The Green Party calls for a local transport revolution to be implemented upon the completion of HS2 and the resultant uplift in rail capacity. This capacity should be used by transferring intercity expresses from the existing railway network to HS2, and then utilising the newly freed-up space for new local services to, in and around towns and cities across England and Wales. Specifically, the Green Party calls for these new services to be directed to the following towns and cities:\
@@ -163,14 +163,6 @@ so that it reads as follows:\
 \*
 
 The Green Party calls for the impact of HS2 to be improved further by funding and building Northern Powerhouse Rail which includes a high speed rail line from Liverpool to Manchester and onwards to Bradford and Leeds. This will use HS2 infrastructure in Manchester including potentially sharing the underground HS2 station at Manchester Piccadilly. The Green Party calls for HS2 services to be extended to Liverpool using Northern Powerhouse Rail infrastructure around Liverpool.”
-  
-</div>          
-            
-
-```
-      
-        
-```
 
 
 <div class="amendment amendment-tbd">
@@ -178,7 +170,10 @@ The Green Party calls for the impact of HS2 to be improved further by funding an
 <h3 id="amendment-3">Amendment #3</h3>
 </div>
     
+I﻿nsert text below
+  
+</div>          
+            
+
 After the final paragraph, insert—\
 “The Green Party calls for both HS2 and Northern Powerhouse Rail to be reclassified as England-only projects rather than England-and-Wales projects. This more accurately reflects the projects’ geographical location and will importantly ensure that Wales receives its fair share of funding under the Barnett Formula. Given that it is not possible to travel by rail between the north and south of Wales (without going on an hours-long route through England), this transformational uplift in rail investment is crucial to the nation’s efforts to connect communities; strengthen cultural ties; resist calls for road-building; reduce car dependency; and tackle the climate and ecological emergencies.”
-  
-</div>

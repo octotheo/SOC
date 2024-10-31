@@ -22,7 +22,7 @@
 - name: Emergency Motions
   code: EM
 
-- name: AGM Reports
+- name: AGM Reports 
   code: AGM
 
   name: Appendix

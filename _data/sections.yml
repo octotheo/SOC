@@ -16,14 +16,11 @@
 - name: Section F
   code: F
 
-- name: AGM Reports Test
-  code: LM
+- name: AGM Reports
+  code: AGM
 
 - name: Emergency Motions
   code: EM
-
-- name: AGM Reports
-  code: AGM
 
   name: Appendix
   code: Appendix

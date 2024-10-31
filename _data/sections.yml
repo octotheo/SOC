@@ -16,13 +16,13 @@
 - name: Section F
   code: F
 
-- name: Late motions
+- name: AGM Reports Test
   code: LM
 
 - name: Emergency Motions
   code: EM
 
-- name: AGM Reports 
+- name: AGM Reports
   code: AGM
 
   name: Appendix

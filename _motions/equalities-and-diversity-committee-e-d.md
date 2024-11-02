@@ -7,8 +7,6 @@ motion_code:
   section: AGM
 status: tbd
 ---
-
-
 Your Equality and Diversity Committee for 2023-24 after Green Party Executive Committee elections the Autumn Conference 2023 were:\
 \
 Equality and Diversity Coordinator - Kefentse Dennis
@@ -24,6 +22,35 @@ The new Committee started work on Monday 27th November 2023, for 2023/24. This s
 ### [](<>)*GPW on Loss of Affiliation Status*
 
 * Green Party Women lost their affiliation with GPEW, This was due to past constitutional issues and an invalid January 2022 election.
+
+
+<div class="amendment amendment-tbd">
+<div class="d-flex justify-content-between align-items-start">
+<h3 id="amendment-2">Amendment #2</h3>
+</div>
+    
+## *Amendment to the the Equality and Diversity AGM Report*
+
+## *September-November*
+
+The report states :
+
+### *GPW on Loss of Affiliation Status*
+
+* Green Party Women lost their affiliation with GPEW, This was due to past constitutional issues and an invalid January 2022 election.
+
+  This is incorrect. Whilst there was indeed a challenge mounted by some members of the Committee as to the legality of the committee’s election of 2022 under the group’s constitution with SOC support in the first instance, that challenge was subsequently withdrawn. Green Party Women has remained the largest Special Interest group and continuously so since January 2022.
+
+**I therefore propose this amendment to the Report:**
+
+delete : ***GPW on Loss of Affiliation Status***
+
+* **Green Party Women lost their affiliation with GPEW, This was due to past constitutional issues and an invalid January 2022 election.**
+  
+</div>          
+            
+
+
 
 ### [](<>)*Setting Aims and Objectives for the Year*
 
@@ -60,9 +87,6 @@ Inquiries were made about filling a recent vacancy on the Equality and Diversity
 
 * Senior Greens officers were put on No Fault Suspensions (NFS), Nicola Watson, Freda Davis, and Eric Walker.
 * The anonymous complaint, which the three have waived confidentiality for, came from a member monitoring robust discussions in a closed Google group.
-
-
-
 * Currently, 16 members are suspended or expelled, with some preparing discrimination lawsuits.
 
 ### [](<>)*Disability Green Group*
@@ -84,8 +108,6 @@ The Equality and Diversity Committee recently reviewed its aims and objectives. 
 * The development of the document addressing queerphobia has sparked controversy, particularly regarding the consultation process and the need for legal advice.
 * Critics argue the consultation process was not inclusive enough, lacked transparency, and the definitions were too prescriptive.
 * There were concerns about balancing LGBTIQA+ rights with other protected characteristics. Comprehensive legal advice was called for to ensure compliance with laws and case law.
-
-
 
 ### [](<>)*Development of the Racism portion of the Rights and Responsibilities Policy Chapter*
 
@@ -113,8 +135,6 @@ The Muslim Greens were affiliated on 24th June 2024.
 <h3 id="amendment-1">Amendment #1</h3>
 </div>
     
-
-
 Replace the section on Antisemitism Allegations with:
 
 * Some parliamentary candidates faced accusations of antisemitism due to their ill-conceived social media posts, raising concerns among the leadership and membership. These posts resulted in unwelcome media attention.
@@ -124,18 +144,19 @@ Replace the section on Antisemitism Allegations with:
 </div>          
             
 
+```
+      
+        
+```
+
 ### *Chair of GPEx, Jon Nott*
 
 * At the recent EEDI meeting, the Green Party Executive Committee chair was questioned by special interest groups. They demanded transparency and accountability in disciplinary processes and decision-making. The chair agreed to implement transparent reporting and regular updates.
 * Concerns about policy inclusivity, resource allocation, and conference accessibility were raised. The chair committed to reviewing and updating policies, prioritising programs for underrepresented groups, and expanding accessibility training.
 
-
-
 ## *Diversity Monitoring*
 
 **Data Sources:**
-
-
 
 * **EEDI Candidate Diversity Monitoring Form 2022 (Local Election)**
 * **EEDI Candidate Diversity Monitoring Form 2024 (GE Election)**
@@ -152,17 +173,11 @@ No Response Received: **141**
 
 Response Rate: **75.5%**
 
-
-
 ### *Ethnic Diversity by Region 2024*
 
 Census Data: White: **81.0%,** Asian: **9.3%**, Black: **4.0%**, Mixed: **2.2%** Other Ethnic Groups: **0.9%**
 
-
-
 ### *Gender Distribution 2024*
-
-
 
 * Women: **42.8%** Target: **51%**
 * Menl: **53.5 %**
@@ -171,13 +186,9 @@ Census Data: White: **81.0%,** Asian: **9.3%**, Black: **4.0%**, Mixed: **2.2%**
 
 ### *Sexual Orientation Representation 2024*
 
-
-
 * Heterosexual: **67.7%**, Bisexual: **9.4%**, Homosexual: **4.8%** Pansexual **5.7%** Asexual **2.07%** Others **7.3%**
 
 ### *Religious Diversity 2024*
-
-
 
 No Religion: **66%.**
 
@@ -187,17 +198,9 @@ Other Religions: **5.75%** of Buddhist, Hindu, Jewish, Muslim, and Sikh
 
 Any Other Beliefs: **7.14%** Diverse responses include Pagan/Gaia, Humanist, Atheist, Spiritual, Agnostic, and Green
 
-
-
 ### *Socio-Economic Analysis 2024*
 
-
-
-
-
 Green Party Candidates Household Situation
-
-
 
 * Homeowner: 325 (**74.9%**)
 * Renting privately: 54 (**12.4%)**
@@ -209,8 +212,6 @@ Green Party Candidates Household Situation
 
 Distribution:
 
-
-
 * * Below £20,000: 55 **(12.7%)**
   * £20,000 - £39,999: 117 **(26.9%)**
   * £40,000 - £59,999: 83 **(19.1%)**
@@ -219,15 +220,9 @@ Distribution:
   * £100,000 or above: 42 **(9.6%)**
   * Prefer not to say: 37 **(8.5%)**
 
-
-
 Caring Responsibilities:
-
-
 
 * Candidates with Caring Responsibilities: 156 **(36.02%)**
 * Candidates without Caring Responsibilities: 277 **(63.97%)**
 
-
-
-For any questions or to enquire about the committee, please contact: *[Kefentse.dennis@](mailto:Kefentse.dennis@greenparty.org.uk)**[greenparty.org.uk](mailto:Kefentse.dennis@greenparty.org.uk)*
+For any questions or to enquire about the committee, please contact: *[Kefentse.dennis@](mailto:Kefentse.dennis@greenparty.org.uk)\*\*[greenparty.org.uk](mailto:Kefentse.dennis@greenparty.org.uk)*
